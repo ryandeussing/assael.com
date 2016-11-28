@@ -1,0 +1,120 @@
+# Basic Info
+title: Gulp/Jekyll/Netlify
+email: test@example.com
+description: >
+  About us...
+# Base URL is used in the manner that is specified by this guide
+# (http://jekyllrb.com/docs/github-pages/) which is to say, it's
+# not used at all.
+baseurl: ""
+url: "http://example.com"
+# comment_server_url: http://comments.savaslabs.com
+# comment_server_enabled: 1
+
+# Professional and social media links
+twitter_username: example
+github_username: example
+
+# Languages and syntax highlighting
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax-highlighter: rouge
+
+# Include static pages.
+include: ["_pages"]
+
+# Blog
+paginate: 6
+paginate_path: "/blog/:num/"
+
+# For Travis CI and gulp
+exclude: ["_assets",
+          "Gemfile",
+          "Gemfile.lock",
+          "gulpfile.js",
+          "node_modules",
+          "package.json"]
+
+# Collections
+collections:
+  team:
+    output: true
+    permalink: /team/:path/
+  work:
+    output: true
+    permalink: /work/:path/
+  case-studies:
+    output: true
+    permalink: /work/:path/
+  services:
+    output: false
+    permalink: /what-we-do/:path/
+
+# Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  # jekyll-picture-tag
+  # jemoji
+
+# Picture element presets
+# picture:
+#   source: "assets/img"
+#   output: "assets/processed-img"
+#   markup: "picture"
+#   presets:
+#     team_square:
+#       attr:
+#         class: "image--team-square"
+#         itemprop: "image"
+#       ppi: [1, 2]
+#       source_400:
+#         media: "(min-width: 400px)"
+#         width: "334"
+#       source_default:
+#         width: "254"
+#     team_individual:
+#       attr:
+#         class: "image--team-individual"
+#         itemprop: "image"
+#       ppi: [1, 2]
+#       source_400:
+#         media: "(min-width: 400px)"
+#         width: "350"
+#       source_default:
+#         width: "288"
+#     team_post_meta:
+#       attr:
+#         class: "image--team-post-meta"
+#         itemprop: "image"
+#       ppi: [1, 2]
+#       source_default:
+#         width: "288"
+#     case_study:
+#       attr:
+#         class: "image--case-study"
+#         itemprop: "image"
+#       ppi: [1, 2]
+#       source_860:
+#         media: "(min-width: 860px)"
+#         width: "560"
+#       source_640:
+#         media: "(min-width: 640px)"
+#         width: "430"
+#       source_400:
+#         media: "(min-width: 400px)"
+#         width: "560"
+#       source_default:
+#         width: "400"
+#     post_featured_image:
+#       attr:
+#         class: "image--post-featured-image"
+#         itemprop: "image"
+#       ppi: [1, 2]
+#       source_1120:
+#         media: "(min-width: 400px)"
+#         width: "737"
+#       source_default:
+#         width: "400"

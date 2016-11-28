@@ -1,0 +1,11 @@
+# For Jekyll.
+_site
+.sass-cache
+.gems
+.rbenv-gemsets
+tmp
+node_modules
+assets
+_includes/critical.css
+
+
