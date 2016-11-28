@@ -3,21 +3,13 @@
 
   {% include head.html %}
 
-  <body>
-    <div id="sticky-wrapper">
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+    <div id="sticky-wrapper" >
       <div id="body-inner">
-
-      </div>
-    </div>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+        {% include header.html %}
         {{ content }}
       </div>
     </div>
-
     {% include footer.html %}
     {% include scripts.html %}
   </body>
