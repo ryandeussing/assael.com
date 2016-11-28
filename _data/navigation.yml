@@ -1,15 +1,56 @@
-- title: Who we are
-  url: javascript:void(0)
-  sub-menu:
-    - title: Team
-      url: /team
-    - title: Mission & values
-      url: /mission-and-values
-- title: Services
-  url: /services
-- title: Our work
-  url: /work
-- title: Blog
-  url: /blog
-- title: Contact
-  url: /contact
+collections:
+  - title: Classic Assael
+    url: /collections/classic-assael
+  - title: Essentials
+    url: /collections/essentials
+  - title: Akoya
+    url: /collections/akoya
+  - title: Couture
+    url: /collections/couture
+  - title: Collaborations
+    url: javascript:void(0)
+    submenu:
+      - title: Angela Cummings
+        url: /collections/angela-cummings
+      - title: Julie Parker Endangered Species
+        url: /collections/julie-parker-endangered-species
+      - title: Reho Concepts for Assael
+        url: /collections/reho-concepts-for-assael
+categories:
+  - title: Necklaces
+    url: /categories/necklaces
+  - title: Earrings
+    url: /categories/earrings
+  - title: Bracelets
+    url: /categories/bracelets
+  - title: Brooches
+    url: /categories/brooches
+  - title: Rings
+    url: /categories/rings
+about:
+  - title: Our History
+    url: /legacy
+  - title: Spotlignt
+    url: /spotlight
+contact:
+  - title: Find a Retailer
+    url: /retailers
+  - title: Contact Assael
+    url: /contact
+
+
+# - title: Who we are
+#   url: javascript:void(0)
+#   sub-menu:
+#     - title: Team
+#       url: /team
+#     - title: Mission & values
+#       url: /mission-and-values
+# - title: Services
+#   url: /services
+# - title: Our work
+#   url: /work
+# - title: Blog
+#   url: /blog
+# - title: Contact
+#   url: /contact

@@ -1,0 +1,46 @@
+.retailers {
+  section {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    @include span-columns(10);
+    @include shift(1);
+    small {
+      display: none;
+    }
+    #storemapper-form {
+      margin-top: 1rem;
+      font-family: "Lato";
+      label {
+        font-family: "Lato";
+      }
+      #storemapper-zip, #storemapper-go {
+        border-radius: 0px;
+      }
+    }
+    #storemapper-list li:nth-child(odd) {
+      background-color: #efefef;
+    }
+    #storemapper-list {
+      li.tier {
+        border-bottom: none;
+        padding: 10px 20px;
+      }
+      h4 {
+        font-family: Lato;
+        text-transform: uppercase;
+        color: #555;
+        font-size: 1rem;
+      }
+      p {
+        color: #555;
+        font-size: .9rem;
+      }
+      p.storemapper_view a {
+        font-size: .85rem;
+        color: #000;
+        text-transform: uppercase;
+      }
+    }
+
+  }
+}

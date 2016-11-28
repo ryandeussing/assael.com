@@ -1,0 +1,102 @@
+.collection {
+  main {
+    // @include media($s-up) {
+    //   @include container();
+    //   @include pad();
+    // }
+  }
+  section.showcase {
+    margin-top: 1rem;
+  }
+  section.headline {
+    @include media($s-up){
+      @include span-columns(10);
+      @include shift(1);
+    }
+    @include media($s-up){
+      margin-top: 1rem;
+    }
+    @include media($m-up){
+      margin-top: 2rem;
+    }
+    margin-bottom: 2rem;
+    .intro {
+      text-align: center;
+      p.title {
+        display: inline-block;
+        margin: 0 auto;
+        padding: 0 2em;
+        font-family: Lato;
+        text-transform: uppercase;
+        @include media($s-up){
+          font-size: 1rem;
+        }
+        @include media($m-up){
+          font-size: 1.2rem;
+        }
+        text-align: center;
+        // font-weight: 300;
+      }
+      p {
+        @include media($s-up) {
+          font-size: .75rem;
+        }
+        @include media($ipad-up) {
+          font-size: 1rem;
+        }
+        color: $medium-gray;
+        text-align: left;
+      }
+      hr {
+        height: 1px;
+        color: $light-gray;
+        width: 30%;
+      }
+    }
+  }
+  section.collection {
+    .inner {
+      @include span-columns(10);
+      @include shift(1);
+    }
+    .product {
+      @include media($s-up) {
+        @include span-columns(1 of 1);
+      }
+      @include media($l-up) {
+        @include span-columns(5 of 10);
+      }
+      padding: 0 1rem 1rem 1rem;
+      // margin-bottom: 1.5rem;
+      .title-wrapper {
+        margin-bottom: .5rem;
+        // padding: 1rem;
+      }
+      p.title {
+        // @include vertical-align;
+        // display: inline-block;
+        width: 100%;
+        margin: 0;
+        padding: 1rem 1rem 1.5rem 1rem;
+        font-family: Lato;
+        text-transform: uppercase;
+        font-size: 1rem;
+        text-align: center;
+        color: $medium-gray;
+      }
+      hr {
+        height: 1px;
+        color: $light-gray;
+        width: 50%;
+        margin: .75rem auto 1.25rem auto;
+      }
+      margin-bottom: 1rem;
+      img {
+        border: 1px solid #ccc;
+      }
+    }
+    .product:nth-child(even) {
+      @include omega();
+    }
+  }
+}

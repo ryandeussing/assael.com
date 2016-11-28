@@ -1,0 +1,131 @@
+.contact {
+  main {
+    margin-bottom: 10vh;
+  }
+  section.headline {
+    @include media($s-up){
+      margin-top: 1rem;
+    }
+    @include media($m-up){
+      margin-top: 2rem;
+    }
+    // margin-bottom: 2rem;
+    .intro {
+      text-align: center;
+      p.title {
+        display: inline-block;
+        margin: 0 auto;
+        padding: 0 2em;
+        font-family: Lato;
+        text-transform: uppercase;
+        @include media($s-up){
+          font-size: 1rem;
+        }
+        @include media($m-up){
+          font-size: 1.2rem;
+        }
+        text-align: center;
+        // font-weight: 300;
+      }
+      p {
+        @include media($s-up) {
+          font-size: .75rem;
+        }
+        @include media($ipad-up) {
+          font-size: 1rem;
+        }
+        color: $medium-gray;
+        text-align: left;
+      }
+      hr {
+        height: 1px;
+        color: $light-gray;
+        width: 30%;
+      }
+    }
+  }
+  div.contact-copy {
+    margin-top: 2rem;
+    // margin-bottom: 4rem;
+    @include media($s-up){
+      @include span-columns(10);
+      @include shift(1);
+      // text-align: center;
+    }
+    @include media($m-up){
+      padding-top: 4rem;
+      @include span-columns(6);
+      @include shift(3);
+      text-align: left;
+    }
+    img {
+      max-width: 100%;
+      // margin-bottom: 2.5rem;
+    }
+    p {
+      color: $medium-gray;
+      @include media($s-up) {
+        font-size: .75rem;
+      }
+      @include media($ipad-up) {
+        font-size: 1rem;
+      }
+    }
+    a {
+      color: #000;
+      text-decoration: none;
+    }
+  }
+  // div.image {
+  //   @include media($s-up){
+  //     @include span-columns(6);
+  //     @include shift(3);
+  //   }
+  //   @include media($m-up){
+  //     margin-top: 2rem;
+  //     @include span-columns(4);
+  //     @include shift(2);
+  //     margin-bottom: 10vh;
+  //   }
+  // }
+  section:first-of-type {
+    margin-top: 2rem;
+  }
+  section p:last-of-type {
+    margin-bottom: 0;
+  }
+  blockquote {
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 100;
+    color: $medium-gray;
+    margin: 1rem 0 1.5rem 0;
+    line-height: 1.4;
+    @include media($s-up) {
+      font-size: 1rem;
+    }
+    @include media($ipad-up) {
+      font-size: 2rem;
+    }
+    // padding-bottom: 1rem;
+  }
+  .wy-figure-left {
+    margin-left: 0px;
+  }
+  .wy-figure-right {
+    margin-right: 0px;
+  }
+  figure[data-type=image] {
+    @include media($s-up){
+      max-width: 350px;
+    }
+    margin-bottom: 1rem !important;
+  }
+  figcaption {
+    font-family: 'Lato', sans-serif;
+    font-size: .9rem;
+    color: $text;
+  }
+}
