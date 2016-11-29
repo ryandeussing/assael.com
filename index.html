@@ -1,7 +1,36 @@
 ---
 layout: default
+title: One of the world’s leading pearl houses.
 permalink: "/"
 class: home
+slides:
+  - image_path: /assets/img/slide-legacy.jpg
+    link: /legacy
+  - image_path: /assets/img/slide-100inch.jpg
+    link: /pieces/assael-100-inch-south-sea-pearl-cultured-necklace/
+  - image_path: /assets/img/slide-etoile.jpg
+    link: /pieces/etoile-orange-melo-melo-pendant/
+  - image_path: /assets/img/slide-forever-bangles.jpg
+    link: /pieces/assael-forever-bangle/
 ---
-this is the index
+<main>
+
+  <section class="showcase">
+    <div class="gallery">
+      {% for showcase in page.slides %}
+      {% assign image = showcase.image_path %}
+      <div class="gallery-cell inner">
+        <a href="{{ showcase.link }}"><img class="gallery-cell-image" data-flickity-lazyload="{{ image }}"></a>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="headline">
+    <div class="inner center intro">
+      <p>Assael is one of the world’s leading pearl houses, specializing in haute joaillerie and precious stones.</p>
+    </div>
+  </section>
+
+</main>
 

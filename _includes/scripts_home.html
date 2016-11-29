@@ -1,0 +1,46 @@
+{% if page.slides | size > 1 %}
+  <script>
+    (function() {
+      $('.gallery').flickity({
+        // options
+        pageDots: true,
+        prevNextButtons: false,
+        imagesLoaded: true,
+        lazyLoad: true,
+        wrapAround: true,
+        autoPlay: true
+        // arrowShape: {
+        //   x0: 30,
+        //   x1: 60, y1: 35,
+        //   x2: 60, y2: 35,
+        //   x3: 45
+        // }
+      });
+      setTimeout(function(){
+        $('.gallery').flickity('resize');
+      }, 275);
+    })();
+  </script>
+{% else %}
+<script>
+  (function() {
+    $('.gallery').flickity({
+      // options
+      pageDots: false,
+      prevNextButtons: false,
+      imagesLoaded: true,
+      lazyLoad: true,
+      wrapAround: true
+      // arrowShape: {
+      //   x0: 30,
+      //   x1: 60, y1: 35,
+      //   x2: 60, y2: 35,
+      //   x3: 45
+      // }
+    });
+    setTimeout(function(){
+      $('.gallery').flickity('resize');
+    }, 275);
+  })();
+</script>
+{% endif %}
