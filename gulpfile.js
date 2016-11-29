@@ -82,7 +82,7 @@ gulp.task('build:scripts:global', function() {
         paths.jsFiles + '/global/*.js'
     ])
         .pipe(concat('main.js'))
-        .pipe(uglify())
+        // .pipe(uglify())
         .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
         .on('error', gutil.log);
