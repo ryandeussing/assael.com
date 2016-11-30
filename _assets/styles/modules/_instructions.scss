@@ -10,7 +10,7 @@ body.instructions {
   font-family: "Lato";
  }
  section.text {
-  @include media($m-up){
+  @include breakpoint($m-up){
     margin-top: 2rem;
     @include span-columns(10);
     @include shift(1);
