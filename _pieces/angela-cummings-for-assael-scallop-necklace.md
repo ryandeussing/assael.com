@@ -1,5 +1,5 @@
 ---
-title: Angela Cummings For Assael Scallop Necklace
+title: Angela Cummings Scallop Necklace
 description: |
   This delicate collar necklace features scalloped rows of Diamonds punctuated by 6 silvery South Sea Pearl pendants. Reserved for the most elegant of occasions.
 
@@ -7,8 +7,8 @@ description: |
 specs: |
   6 South Sea Cult Pearls Round 12.4 - 11.1 mm set in Platinum/18K WG and 174 Rd Dia.= 19.87 cts.
 images:
-  - angela-cummings-for-assael-scallop-necklace.jpg
-category: Angela Cummings for Assael
+  - angela-cummings-for-assael-scallop-necklace.png
+category: Angela Cummings
 tags:
   - necklaces
 ---

@@ -1,5 +1,5 @@
 ---
-title: Angela Cummings For Assael Scallop Necklace & Earrings
+title: Angela Cummings Scallop Necklace & Earrings
 description: |
   This delicate necklace and earrings feature scalloped rows of Diamonds punctuated by silvery South Sea Pearls. Reserved for the most elegant of occasions.
 specs: |
@@ -7,8 +7,8 @@ specs: |
 
   EARRINGS: 11.2 - 11.3mm South Sea Pearls with 2.90 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
-  - angela-cummings-for-assael-scallop-necklace-earrings.jpg
-category: Angela Cummings for Assael
+  - angela-cummings-for-assael-scallop-necklace-earrings.png
+category: Angela Cummings
 tags:
   - necklaces
   - earrings

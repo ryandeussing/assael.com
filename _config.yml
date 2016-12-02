@@ -41,27 +41,15 @@ collections:
   pieces:
     output: true
     permalink: /pieces/:path/
-  # classic-assael:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # essentials:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # akoya:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # couture:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # angelea-cummings:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # julie-parker-endangered-species:
-  #   output: false
-  #   permalink: /pieces/:path/
-  # reho-concepts-for-assael:
-  #   output: false
-  #   permalink: /pieces/:path/
+
+defaults:
+  -
+    scope:
+      type: "pieces"
+      path: ""
+    values:
+      layout: "product"
+      class: "product"
 
 # Gems
 gems:

@@ -1,5 +1,5 @@
 ---
-title: Angela Cummings For Assael Double Swirl Earrings
+title: Angela Cummings Double Swirl Earrings
 description: |
   Like the whorls of a Nautilus shell, graduated Diamonds arc in an infinite loop around luminous Pearls in these elegant, dimensional earrings. Available with South Sea or Tahitian Pearls.
 specs: |
@@ -7,8 +7,8 @@ specs: |
 
   TAHITIAN: 11.0 - 10.9mm Tahitian Natural Color Cultured Pearls with 5.30 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
-  - angela-cummings-for-assael-double-swirl-earrings.jpg
-category: Angela Cummings for Assael
+  - angela-cummings-for-assael-double-swirl-earrings.png
+category: Angela Cummings
 tags:
   - earrings
 ---

@@ -3,10 +3,10 @@
     margin-bottom: 10vh;
   }
   section.headline {
-    @include media($s-up){
+    @include breakpoint($s-up){
       margin-top: 1rem;
     }
-    @include media($m-up){
+    @include breakpoint($m-up){
       margin-top: 2rem;
     }
     // margin-bottom: 2rem;
@@ -18,20 +18,20 @@
         padding: 0 2em;
         font-family: Lato;
         text-transform: uppercase;
-        @include media($s-up){
+        @include breakpoint($s-up){
           font-size: 1rem;
         }
-        @include media($m-up){
+        @include breakpoint($m-up){
           font-size: 1.2rem;
         }
         text-align: center;
         // font-weight: 300;
       }
       p {
-        @include media($s-up) {
+        @include breakpoint($s-up) {
           font-size: .75rem;
         }
-        @include media($ipad-up) {
+        @include breakpoint($ipad-up) {
           font-size: 1rem;
         }
         color: $medium-gray;
@@ -47,12 +47,12 @@
   div.contact-copy {
     margin-top: 2rem;
     // margin-bottom: 4rem;
-    @include media($s-up){
+    @include breakpoint($s-up){
       @include span-columns(10);
       @include shift(1);
       // text-align: center;
     }
-    @include media($m-up){
+    @include breakpoint($m-up){
       padding-top: 4rem;
       @include span-columns(6);
       @include shift(3);
@@ -64,10 +64,10 @@
     }
     p {
       color: $medium-gray;
-      @include media($s-up) {
+      @include breakpoint($s-up) {
         font-size: .75rem;
       }
-      @include media($ipad-up) {
+      @include breakpoint($ipad-up) {
         font-size: 1rem;
       }
     }
@@ -77,11 +77,11 @@
     }
   }
   // div.image {
-  //   @include media($s-up){
+  //   @include breakpoint($s-up){
   //     @include span-columns(6);
   //     @include shift(3);
   //   }
-  //   @include media($m-up){
+  //   @include breakpoint($m-up){
   //     margin-top: 2rem;
   //     @include span-columns(4);
   //     @include shift(2);
@@ -103,10 +103,10 @@
     color: $medium-gray;
     margin: 1rem 0 1.5rem 0;
     line-height: 1.4;
-    @include media($s-up) {
+    @include breakpoint($s-up) {
       font-size: 1rem;
     }
-    @include media($ipad-up) {
+    @include breakpoint($ipad-up) {
       font-size: 2rem;
     }
     // padding-bottom: 1rem;
@@ -118,7 +118,7 @@
     margin-right: 0px;
   }
   figure[data-type=image] {
-    @include media($s-up){
+    @include breakpoint($s-up){
       max-width: 350px;
     }
     margin-bottom: 1rem !important;

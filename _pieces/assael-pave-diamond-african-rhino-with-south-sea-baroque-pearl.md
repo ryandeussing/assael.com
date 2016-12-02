@@ -5,7 +5,7 @@ description: |
 specs: |
   26.3 x 21.4 x 14.8mm South Sea Baroque Pearl with 10.44 carats of White Diamonds, set in 18K White Gold.
 images:
-  - assael-pave-diamond-african-rhino-with-south-sea-baroque-pearl.jpg
+  - assael-pave-diamond-african-rhino-with-south-sea-baroque-pearl.png
 category: Julie Parker Endangered Species
 tags:
   - necklaces

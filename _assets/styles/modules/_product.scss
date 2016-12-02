@@ -1,6 +1,6 @@
 .product {
   main {
-    // @include media($s-up) {
+    // @include breakpoint($s-up) {
     //   @include container();
     //   @include pad();
     // }
@@ -8,29 +8,29 @@
   section.product {
     margin-top: 2rem;
     .inner {
-      @include media($s-up) {
+      @include breakpoint($s-up) {
         @include span-columns(10 of 12);
         @include shift(1);
       }
-      @include media($l-up) {
+      @include breakpoint($l-up) {
         @include span-columns(10);
         @include shift(1);
       }
     }
     .product {
-      @include media($s-up) {
+      @include breakpoint($s-up) {
         @include span-columns(10 of 10);
       }
-      @include media($l-up) {
+      @include breakpoint($l-up) {
         @include span-columns(5 of 10);
       }
       margin-bottom: 1rem;
     }
     .product-info {
-      @include media($s-up) {
+      @include breakpoint($s-up) {
         @include span-columns(10 of 10);
       }
-      @include media($l-up) {
+      @include breakpoint($l-up) {
         @include span-columns(5 of 10);
         padding-left: 1rem;
       }

@@ -1,5 +1,5 @@
 ---
-title: Angela Cummings For Assael Scallop Bangle & Earrings
+title: Angela Cummings Scallop Bangle & Earrings
 description: |
   Incredibly detailed, this bracelet and earring set feature a delicate scalloped pattern and organic, contemporary forms finished with South Sea Pearls.
 specs: |
@@ -7,8 +7,8 @@ specs: |
 
   EARRINGS: 13.5 - 12.3mm South Sea Cultured Pearl Drops, set in 18K Yellow Gold.
 images:
-  - angela-cummings-for-assael-scallop-bangle-earrings.jpg
-category: Angela Cummings for Assael
+  - angela-cummings-for-assael-scallop-bangle-earrings.png
+category: Angela Cummings
 tags:
   - bracelets
   - earrings

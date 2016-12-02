@@ -5,7 +5,7 @@ description: |
 specs: |
   13.4-10.9mm South Sea Cultured Pearls, 87.57 carats of Moonstones and 53.66 carats of Rondelle Sapphire beads, set in 18K Yellow Gold
 images:
-  - assael-moonstone-sapphire-and-south-sea-pearl-necklace.jpg
+  - assael-moonstone-sapphire-and-south-sea-pearl-necklace.png
 category: Essentials
 tags:
   - necklaces

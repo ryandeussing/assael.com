@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<main>
+  <section class="product">
+      <div class="inner">
+        <div class="product">
+        {% if page.images[0] %}
+        <img src="/assets/img/{{ page.images[0] }}" alt="">
+        {% endif %}
+        </div>
+        <div class="product-info">
+          <p class="title">{{ page.title }}</p>
+          <hr class="title">
+          <div class="description">
+            <p>{{ page.description|safe }}</p>
+          </div>
+          <!-- <hr> -->
+          <div class="specs">
+            <p>{{ page.specs }}</p>
+          </div>
+        </div>
+      </div>
+  </section>
+</main>

@@ -5,7 +5,7 @@ description: |
 specs: |
   Assael offers single, double, and triple row Akoya strand bracelets. Sizes start at 6.5mm and go up to 9.0 mm.
 images:
-  - assael-akoya-pearl-bracelets.jpg
+  - assael-akoya-pearl-bracelets.png
 category: Akoya
 tags:
   - bracelets

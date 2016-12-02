@@ -1,5 +1,5 @@
 ---
-title: Angela Cummings For Assael Criss Cross Earring
+title: Angela Cummings Criss Cross Earring
 description: |
   Silvery South Sea Pearls are wreathed in rows of Diamonds that extend slightly like graceful branches in these statement button earrings.
 
@@ -7,8 +7,8 @@ description: |
 specs: |
   Pair of South Sea Pearl Buttons 12.8 - 12.2mm set in Platinum/ 18K WG with 44 Diamonds = 4.75ct
 images:
-  - angela-cummings-for-assael-criss-cross-earring.jpg
-category: Angela Cummings for Assael
+  - angela-cummings-for-assael-criss-cross-earring.png
+category: Angela Cummings
 tags:
   - earrings
 ---

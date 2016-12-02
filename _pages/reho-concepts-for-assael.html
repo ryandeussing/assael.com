@@ -1,0 +1,41 @@
+---
+<!-- TODO: use overview_markdown and then overview_markdown|markdownify for pargraphs -->
+title: Rehoe Concepts for Assael
+overview: |
+  Assael and Reho Concept were initially acquainted at the legendary Basel Jewelry Fair in Switzerland. Enchanted with the inventiveness and unique design aesthetic of Reho Concept’s line, Assael was inspired to collaborate with this highly regarded Italian firm.
+
+  The collection features beautifully engineered, flexible chain elements set with pave diamonds and South Sea pearls. This concept allows for subtle movement of the gemstones, a playful effect that only enhances the loveliness of the design.
+order: 1
+layout: default
+permalink: /collections/reho-concepts-for-assael/
+class: collection
+---
+{% assign items = site.pieces | where:"category", "Reho Concepts for Assael" %}
+<main>
+
+<section class="headline">
+  <div class="inner center intro">
+    <p class="title">{{page.title}} Collection</p>
+    <hr>
+    <p>{{ page.overview|safe }}</p>
+  </div>
+</section>
+
+<section class="collection">
+    <div class="inner">
+      {% for item in items %}
+        <div class="product">
+          <!-- <hr> -->
+          {% if item.images[0] %}
+          <a href="{{ item.url }}"><img src="/assets/img/{{ item.images[0] }}" alt=""></a>
+          {% endif %}
+          <div class="title-wrapper">
+            <p class="title">{{ item.title }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+</section>
+
+</main>

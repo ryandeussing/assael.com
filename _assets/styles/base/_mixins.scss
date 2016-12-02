@@ -42,10 +42,10 @@
 
 // container
 @mixin container() {
-  @include media($s-up){
+  @include breakpoint($s-up){
     @include outer-container();
   }
-  @include media($l-up){
+  @include breakpoint($l-up){
     @include outer-container($x);
   }
 }

@@ -1,20 +1,20 @@
 .home {
-  @include media($l-up){
+  @include breakpoint($l-up){
     height: 100vh;
     @include sticky-footer(40px);
   }
   main {
     margin-bottom: 0;
-    // @include media($s-up) {
+    // @include breakpoint($s-up) {
     //   @include container();
     //   @include pad();
     // }
   }
   section.showcase {
-    @include media($s-up){
+    @include breakpoint($s-up){
       margin-top: 2vh;
     }
-    // @include media($ipad-h-up){
+    // @include breakpoint($ipad-h-up){
     //   margin-top: 2vh;
     // }
   }
@@ -24,10 +24,10 @@
     .intro {
       text-align: center;
       p {
-        @include media($s-up) {
+        @include breakpoint($s-up) {
           font-size: .8rem;
         }
-        @include media($ipad-up) {
+        @include breakpoint($ipad-up) {
           @include span-columns(10 of 12);
           @include shift(1);
           font-size: 1rem;
@@ -43,7 +43,7 @@
 
 .home {
   #body-inner {
-    @include media($l-up){
+    @include breakpoint($l-up){
       height: 100vh;
     }
   }
