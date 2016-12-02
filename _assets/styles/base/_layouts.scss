@@ -32,10 +32,10 @@ section {
 
 section.showcase {
   .inner {
-    @include breakpoint($s-up){
+    @include media($s-up){
       @include span-columns(12);
     }
-    @include breakpoint($l-up){
+    @include media($l-up){
       @include span-columns(10);
       @include shift(1)
     }
@@ -102,8 +102,8 @@ section.text {
 
 section.headline {
   .inner {
-    @include breakpoint($s-up){}
-    @include breakpoint($ipad-h-up){
+    @include media($s-up){}
+    @include media($ipad-h-up){
       @include span-columns(8);
       @include shift(2);
     }

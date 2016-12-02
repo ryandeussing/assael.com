@@ -9,14 +9,14 @@
     margin-top: 1rem;
   }
   section.headline {
-    @include breakpoint($s-up){
-      @include span-columns(10);
-      @include shift(1);
+    @include media($s-up){
+      // @include span-columns(10);
+      // @include shift(1);
     }
-    @include breakpoint($s-up){
+    @include media($s-up){
       margin-top: 1rem;
     }
-    @include breakpoint($m-up){
+    @include media($m-up){
       margin-top: 2rem;
     }
     margin-bottom: 2rem;
@@ -28,10 +28,10 @@
         padding: 0 2em;
         font-family: Lato;
         text-transform: uppercase;
-        @include breakpoint($s-up){
+        @include media($s-up){
           font-size: 1rem;
         }
-        @include breakpoint($m-up){
+        @include media($m-up){
           font-size: 1.2rem;
         }
         text-align: center;

@@ -1,0 +1,12 @@
+---
+title: Assael Golden South Sea And Diamond Pearl Ring
+description: |
+  Natural Color Golden South Sea Cultured Pearl highlighted by Rose Cut Diamonds.
+specs: |
+  Golden South Sea Pearl ring, 13.9 x 14.5mm, set in 18K White gold, with 130 Diamonds, 4.01 ctw.
+images:
+  - assael-golden-south-sea-and-diamond-pearl-ring.jpg
+category: Classic Assael
+tags:
+  - rings
+---

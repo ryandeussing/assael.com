@@ -38,18 +38,30 @@ exclude: ["_assets",
 
 # Collections
 collections:
-  team:
+  pieces:
     output: true
-    permalink: /team/:path/
-  work:
-    output: true
-    permalink: /work/:path/
-  case-studies:
-    output: true
-    permalink: /work/:path/
-  services:
-    output: false
-    permalink: /what-we-do/:path/
+    permalink: /pieces/:path/
+  # classic-assael:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # essentials:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # akoya:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # couture:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # angelea-cummings:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # julie-parker-endangered-species:
+  #   output: false
+  #   permalink: /pieces/:path/
+  # reho-concepts-for-assael:
+  #   output: false
+  #   permalink: /pieces/:path/
 
 # Gems
 gems:

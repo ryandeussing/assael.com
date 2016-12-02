@@ -1,0 +1,12 @@
+---
+title: Assael South Sea Cultured Pearl Earrings
+description: |
+  Iconic and incomparable - exquisite South Sea pearls are wreathed in rows of Diamonds for the ultimate statement earring.
+specs: |
+  13.8 - 13.9mm South Sea Cultured Pearls with 13.81 carats of Diamonds set in Platinum.
+images:
+  - assael-south-sea-cultured-pearl-earrings.png
+category: Classic Assael
+tags:
+  - earrings
+---

@@ -11,10 +11,10 @@
     // }
   }
   section.showcase {
-    @include breakpoint($s-up){
+    @include media($s-up){
       margin-top: 2vh;
     }
-    // @include breakpoint($ipad-h-up){
+    // @include media($ipad-h-up){
     //   margin-top: 2vh;
     // }
   }

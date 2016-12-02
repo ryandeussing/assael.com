@@ -1,0 +1,19 @@
+<script>
+  $(function() {
+
+    setTimeout(function(){
+
+      var maxHeight;
+      var titles = $('.collection .title-wrapper');
+
+      $(titles).each(function() {
+       maxHeight = maxHeight > $(this).outerHeight() ? maxHeight : $(this).outerHeight();
+      });
+
+      $(titles).each(function() {
+       $(this).outerHeight(maxHeight);
+      });
+
+      }, 250);
+  });
+</script>
