@@ -2,12 +2,12 @@
 title: Essentials
 overview: |
   Everyday jewels need not be ordinary! Assael Essentials are designed to become an element of signature style, rather than just being reserved for special occasions. Easily dressed up or down, Essentials is all about pearls for the 21st century.
-order: 1
+order: 2
 layout: default
 permalink: /collections/essentials/
 class: collection
 ---
-{% assign items = site.pieces | where:"category", "Essentials" %}
+{% assign items = site.pieces | where:"category", "Essentials" | sort:"order" %}
 
 <main>
 

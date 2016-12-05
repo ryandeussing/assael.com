@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-necklace.png
 category: Angela Cummings
+order: 20
 tags:
   - necklaces
 ---

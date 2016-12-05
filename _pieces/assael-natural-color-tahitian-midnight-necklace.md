@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-natural-color-tahitian-midnight-necklace.jpg
 category: Classic Assael
+order: 11
 tags:
   - necklaces
 ---

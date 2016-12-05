@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-baroque-and-diamond-swirl-ring.jpg
 category: Classic Assael
+order: 29
 tags:
   - rings
 ---

@@ -10,7 +10,7 @@ layout: default
 permalink: /collections/angela-cummings/
 class: collection
 ---
-{% assign items = site.pieces | where:"category", "Angela Cummings" %}
+{% assign items = site.pieces | where:"category", "Angela Cummings" | sort:"order" %}
 <main>
 
 <section class="headline">

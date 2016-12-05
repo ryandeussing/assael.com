@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-pave-diamond-orang-utan-with-golden-south-sea-pearl.png
 category: Julie Parker Endangered Species
+order: 7
 tags:
   - necklaces
 ---

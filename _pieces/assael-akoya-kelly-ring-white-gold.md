@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-kelly-ring-white-gold.jpg
 category: Akoya
+order: 9
 tags:
   - rings
 ---

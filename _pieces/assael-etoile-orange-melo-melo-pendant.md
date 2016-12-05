@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-etoile-orange-melo-melo-pendant.jpg
 category: Classic Assael
+order: 30
 tags:
   - necklaces
 ---

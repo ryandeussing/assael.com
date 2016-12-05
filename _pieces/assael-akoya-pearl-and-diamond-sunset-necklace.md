@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-pearl-and-diamond-sunset-necklace.jpg
 category: Classic Assael
+order: 6
 tags:
   - necklaces
 ---

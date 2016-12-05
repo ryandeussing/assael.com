@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-tropical-luxe-collection-necklace.png
 category: Couture
+order: 2
 tags:
   - necklaces
 ---

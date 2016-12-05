@@ -9,6 +9,7 @@ specs: |
 images:
   - reho-concepts-for-assael-earrings-and-bracelets.jpg
 category: Reho Concepts for Assael
+order: 4
 tags:
   - bracelets
   - earrings

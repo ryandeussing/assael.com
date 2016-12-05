@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-elephant-medallion-with-south-sea-pearl-drop.png
 category: Julie Parker Endangered Species
+order: 3
 tags:
   - necklaces
 ---

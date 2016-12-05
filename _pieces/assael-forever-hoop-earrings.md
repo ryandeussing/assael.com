@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-forever-hoop-earrings.jpg
 category: Essentials
+order: 4
 tags:
   - earrings
 ---

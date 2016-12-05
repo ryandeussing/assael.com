@@ -9,6 +9,7 @@ specs: |
 images:
   - angela-cummings-for-assael-double-swirl-earrings.png
 category: Angela Cummings
+order: 14
 tags:
   - earrings
 ---

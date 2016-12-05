@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-pearl-earrings-with-diamonds.jpg
 category: Classic Assael
+order: 4
 tags:
   - earrings
 ---

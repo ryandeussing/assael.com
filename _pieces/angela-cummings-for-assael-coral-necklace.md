@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-coral-necklace.png
 category: Angela Cummings
+order: 1
 tags:
   - necklaces
 ---

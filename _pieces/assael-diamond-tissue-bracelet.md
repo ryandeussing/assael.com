@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-diamond-tissue-bracelet.jpg
 category: Couture
+order: 6
 tags:
   - bracelets
 ---

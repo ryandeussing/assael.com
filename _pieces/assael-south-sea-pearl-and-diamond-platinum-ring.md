@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-pearl-and-diamond-platinum-ring.jpg
 category: Classic Assael
+order: 3
 tags:
   - rings
 ---

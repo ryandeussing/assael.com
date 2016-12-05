@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-pave-diamond-elephant-splashing-water-with-south-sea-baroque-pearl.png
 category: Julie Parker Endangered Species
+order: 2
 tags:
   - necklaces
 ---

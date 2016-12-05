@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-fish-tail-knot-necklace.png
 category: Angela Cummings
+order: 23
 tags:
   - necklaces
 ---

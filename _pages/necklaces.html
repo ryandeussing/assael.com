@@ -1,0 +1,41 @@
+---
+title: Necklaces
+overview: |
+  Assael offers a diverse assortment of rare, cultured pearl strands. Our magnificent pearls are hand-selected, strung in classic lengths and accented with a variety of precious clasps to complete the look. Each necklace is a one-of-a-kind, unique, signature strand to be handed down through generations.
+
+  Assael offers multiple strand sizes and lengths, please don't hesitate to contact us or your nearest retailer if you have something specific in mind.
+order: 1
+layout: default
+permalink: /categories/necklaces/
+class: collection
+---
+{% assign items = site.pieces | where_exp: "item", "item.tags contains 'necklaces'" | sort:"order" %}
+
+<main>
+
+<section class="headline">
+  <div class="inner center intro">
+    <p class="title">{{page.title}}</p>
+    <hr>
+    <p>{{ page.overview }}</p>
+  </div>
+</section>
+
+<section class="collection">
+    <div class="inner">
+      {% for item in items %}
+        <div class="product">
+          <!-- <hr> -->
+          {% if item.images[0] %}
+          <a href="{{ item.url }}"><img src="/assets/img/{{ item.images[0] }}" alt=""></a>
+          {% endif %}
+          <div class="title-wrapper">
+            <p class="title">{{ item.title }}</p>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+</section>
+
+</main>

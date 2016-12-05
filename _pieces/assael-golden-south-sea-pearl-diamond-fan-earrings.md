@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-golden-south-sea-pearl-diamond-fan-earrings.jpg
 category: Classic Assael
+order: 20
 tags:
   - earrings
 ---

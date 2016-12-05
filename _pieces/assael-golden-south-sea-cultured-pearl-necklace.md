@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-golden-south-sea-cultured-pearl-necklace.jpg
 category: Classic Assael
+order: 18
 tags:
   - necklaces
 ---

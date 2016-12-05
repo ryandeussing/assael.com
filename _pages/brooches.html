@@ -1,21 +1,21 @@
 ---
-title: Classic Assael
+title: Brooches
 overview: |
-  For centuries, strands of pearls have been the epitome of elegance and refined taste. When they are of the highest quality, their natural luster and luminous quality is incomparable. Assael travels the world for the most magnificent pearls, ensuring that our Classic Collection is a selection of future heirlooms, to be worn for the most memorable moments of a lifetime. ​​
+  Assael brooches feature classic and whimsical designs with stunning rare pearls as the centerpiece. Truly elegant and timeless, the perfect brooch makes a unique style statement.
 order: 1
 layout: default
-permalink: /collections/classic-assael/
+permalink: /categories/brooches/
 class: collection
 ---
-{% assign items = site.pieces | where:"category", "Classic Assael" | sort:"order" %}
+{% assign items = site.pieces | where_exp: "item", "item.tags contains 'brooches'" | sort:"order" %}
 
 <main>
 
 <section class="headline">
   <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
+    <p class="title">{{page.title}}</p>
     <hr>
-    <p>{{ page.overview|safe }}</p>
+    <p>{{ page.overview }}</p>
   </div>
 </section>
 

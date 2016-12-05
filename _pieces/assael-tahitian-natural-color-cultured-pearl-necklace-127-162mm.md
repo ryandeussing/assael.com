@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-tahitian-natural-color-cultured-pearl-necklace-127-162mm.png
 category: Classic Assael
+order: 14
 tags:
   - necklaces
 ---

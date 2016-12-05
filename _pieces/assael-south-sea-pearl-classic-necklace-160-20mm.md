@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-pearl-classic-necklace-160-20mm.png
 category: Classic Assael
+order: 13
 tags:
   - necklaces
 ---

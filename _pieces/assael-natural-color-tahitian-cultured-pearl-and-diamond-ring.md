@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-natural-color-tahitian-cultured-pearl-and-diamond-ring.jpg
 category: Classic Assael
+order: 10
 tags:
   - rings
 ---

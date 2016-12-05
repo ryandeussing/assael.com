@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-tahitian-pearl-and-diamond-drop-earrings.png
 category: Classic Assael
+order: 12
 tags:
   - earrings
 ---

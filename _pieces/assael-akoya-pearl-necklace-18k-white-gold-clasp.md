@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-pearl-necklace-18k-white-gold-clasp.jpg
 category: Akoya
+order: 1
 tags:
   - necklaces
 ---

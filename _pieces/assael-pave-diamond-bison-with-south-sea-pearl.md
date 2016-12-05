@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-pave-diamond-bison-with-south-sea-pearl.png
 category: Julie Parker Endangered Species
+order: 8
 tags:
   - necklaces
 ---

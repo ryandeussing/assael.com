@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-south-sea-baroque-and-paraiba-tourmaline-chandelier-earrings.jpg
 category: Couture
+order: 8
 tags:
   - earrings
 ---

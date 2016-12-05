@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-moonstone-sapphire-and-south-sea-pearl-necklace.png
 category: Essentials
+order: 10
 tags:
   - necklaces
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-pearl-bracelets.png
 category: Akoya
+order: 13
 tags:
   - bracelets
 ---

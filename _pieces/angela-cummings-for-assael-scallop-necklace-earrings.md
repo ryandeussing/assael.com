@@ -9,6 +9,7 @@ specs: |
 images:
   - angela-cummings-for-assael-scallop-necklace-earrings.png
 category: Angela Cummings
+order: 17
 tags:
   - necklaces
   - earrings

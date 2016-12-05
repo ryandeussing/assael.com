@@ -9,6 +9,7 @@ specs: |
 images:
   - assael-tahitian-natural-color-cultured-pearl-necklace-and-earrings.png
 category: Classic Assael
+order: 24
 tags:
   - necklaces
   - earrings

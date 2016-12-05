@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-and-diamond-cluster-earrings.jpg
 category: Classic Assael
+order: 31
 tags:
   - earrings
 ---

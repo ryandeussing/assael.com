@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-swirl-necklace.png
 category: Angela Cummings
+order: 5
 tags:
   - necklaces
 ---

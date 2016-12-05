@@ -1,21 +1,21 @@
 ---
-title: Classic Assael
+title: Earrings
 overview: |
-  For centuries, strands of pearls have been the epitome of elegance and refined taste. When they are of the highest quality, their natural luster and luminous quality is incomparable. Assael travels the world for the most magnificent pearls, ensuring that our Classic Collection is a selection of future heirlooms, to be worn for the most memorable moments of a lifetime. ​​
+  Assael earrings feature luminous pearls that enhance any skin tone, highlighting your best features. Available in an array of gorgeous designs – from classic to couture – with sparkling diamond accents.
 order: 1
 layout: default
-permalink: /collections/classic-assael/
+permalink: /categories/earrings/
 class: collection
 ---
-{% assign items = site.pieces | where:"category", "Classic Assael" | sort:"order" %}
+{% assign items = site.pieces | where_exp: "item", "item.tags contains 'earrings'" | sort:"order" %}
 
 <main>
 
 <section class="headline">
   <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
+    <p class="title">{{page.title}}</p>
     <hr>
-    <p>{{ page.overview|safe }}</p>
+    <p>{{ page.overview }}</p>
   </div>
 </section>
 

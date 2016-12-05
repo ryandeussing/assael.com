@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-wave-ring.jpg
 category: Angela Cummings
+order: 12
 tags:
   - rings
 ---

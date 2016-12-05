@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-coral-branch-earrings.png
 category: Angela Cummings
+order: 2
 tags:
   - earrings
 ---

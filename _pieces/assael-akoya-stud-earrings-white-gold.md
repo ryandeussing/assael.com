@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-stud-earrings-white-gold.jpg
 category: Akoya
+order: 11
 tags:
   - earrings
 ---

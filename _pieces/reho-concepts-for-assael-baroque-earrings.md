@@ -7,6 +7,7 @@ specs: |
 images:
   - reho-concepts-for-assael-baroque-earrings.png
 category: Reho Concepts for Assael
+order: 2
 tags:
   - earrings
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-pearl-earrings.png
 category: Akoya
+order: 14
 tags:
   - earrings
 ---

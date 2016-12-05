@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-forever-bangle.jpg
 category: Essentials
+order: 3
 tags:
   - bracelets
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-seahorse-brooch.png
 category: Angela Cummings
+order: 15
 tags:
   - brooches
 ---

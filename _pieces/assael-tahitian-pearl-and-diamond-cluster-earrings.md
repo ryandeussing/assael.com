@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-tahitian-pearl-and-diamond-cluster-earrings.png
 category: Classic Assael
+order: 25
 tags:
   - earrings
 ---

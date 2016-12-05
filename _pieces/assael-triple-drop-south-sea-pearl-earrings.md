@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-triple-drop-south-sea-pearl-earrings.jpg
 category: Essentials
+order: 8
 tags:
   - earrings
 ---

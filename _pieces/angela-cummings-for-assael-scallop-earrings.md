@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-scallop-earrings.png
 category: Angela Cummings
+order: 8
 tags:
   - earrings
 ---

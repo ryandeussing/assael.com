@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-sunset-7-row-akoya-pearl-necklace.jpg
 category: Essentials
+order: 1
 tags:
   - necklaces
 ---

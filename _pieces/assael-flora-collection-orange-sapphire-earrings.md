@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-flora-collection-orange-sapphire-earrings.png
 category: Couture
+order: 1
 tags:
   - earrings
 ---

@@ -15,6 +15,7 @@ specs: |
 images:
   - assael-flora-collection.jpg
 category: Couture
+order: 3
 tags:
   - rings
   - earrings

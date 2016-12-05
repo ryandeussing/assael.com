@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-south-sea-pearl-moonlight-necklace.jpg
 category: Classic Assael
+order: 27
 tags:
   - necklaces
 ---

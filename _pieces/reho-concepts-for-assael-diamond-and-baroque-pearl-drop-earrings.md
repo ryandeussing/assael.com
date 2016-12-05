@@ -7,6 +7,7 @@ specs: |
 images:
   - reho-concepts-for-assael-diamond-and-baroque-pearl-drop-earrings.png
 category: Reho Concepts for Assael
+order: 3
 tags:
   - earrings
 ---

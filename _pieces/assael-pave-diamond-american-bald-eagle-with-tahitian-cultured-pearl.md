@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-pave-diamond-american-bald-eagle-with-tahitian-cultured-pearl.png
 category: Julie Parker Endangered Species
+order: 4
 tags:
   - necklaces
 ---

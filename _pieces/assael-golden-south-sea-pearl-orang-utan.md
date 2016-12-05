@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-golden-south-sea-pearl-orang-utan.png
 category: Julie Parker Endangered Species
+order: 6
 tags:
   - necklaces
 ---

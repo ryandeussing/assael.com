@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-kate-earrings-yellow-gold.jpg
 category: Akoya
+order: 8
 tags:
   - earrings
 ---

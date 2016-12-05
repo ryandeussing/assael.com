@@ -9,6 +9,7 @@ specs: |
 images:
   - assael-cascade-earrings-and-bracelet.jpg
 category: Essentials
+order: 2
 tags:
   - bracelets
   - earrings

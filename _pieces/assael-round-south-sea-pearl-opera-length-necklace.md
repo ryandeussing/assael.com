@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-round-south-sea-pearl-opera-length-necklace.jpg
 category: Classic Assael
+order: 1
 tags:
   - necklaces
 ---

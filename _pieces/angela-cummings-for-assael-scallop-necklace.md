@@ -9,6 +9,7 @@ specs: |
 images:
   - angela-cummings-for-assael-scallop-necklace.png
 category: Angela Cummings
+order: 7
 tags:
   - necklaces
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-wave-earrings.png
 category: Angela Cummings
+order: 21
 tags:
   - earrings
 ---

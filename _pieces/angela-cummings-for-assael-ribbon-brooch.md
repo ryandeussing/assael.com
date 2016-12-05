@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-ribbon-brooch.png
 category: Angela Cummings
+order: 9
 tags:
   - brooches
 ---

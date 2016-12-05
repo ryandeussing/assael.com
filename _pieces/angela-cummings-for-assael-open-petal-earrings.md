@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-open-petal-earrings.png
 category: Angela Cummings
+order: 22
 tags:
   - earrings
 ---

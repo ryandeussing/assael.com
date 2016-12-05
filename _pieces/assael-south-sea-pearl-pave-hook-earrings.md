@@ -6,6 +6,7 @@ specs: |
 images:
   - assael-south-sea-pearl-pave-hook-earrings.jpg
 category: Classic Assael
+order: 16
 tags:
   - earrings
 ---

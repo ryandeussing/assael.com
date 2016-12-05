@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-abacus-i-cuff.png
 category: Essentials
+order: 6
 tags:
   - bracelets
 ---

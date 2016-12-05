@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-kelly-ring-yellow-gold.jpg
 category: Akoya
+order: 10
 tags:
   - rings
 ---

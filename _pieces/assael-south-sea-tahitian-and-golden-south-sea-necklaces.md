@@ -11,6 +11,7 @@ specs: |
 images:
   - assael-south-sea-tahitian-and-golden-south-sea-necklaces.png
 category: Classic Assael
+order: 17
 tags:
   - necklaces
 ---

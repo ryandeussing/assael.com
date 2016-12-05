@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-baroque-pearl-opera-length-necklace.jpg
 category: Classic Assael
+order: 7
 tags:
   - necklaces
 ---

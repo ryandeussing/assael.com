@@ -39,17 +39,17 @@ exclude: ["_assets",
 # Collections
 collections:
   pieces:
-    output: true
+    output: false
     permalink: /pieces/:path/
 
-defaults:
-  -
-    scope:
-      type: "pieces"
-      path: ""
-    values:
-      layout: "product"
-      class: "product"
+# defaults:
+#   -
+#     scope:
+#       type: "pieces"
+#       path: ""
+#     values:
+#       layout: "product"
+#       class: "product"
 
 # Gems
 gems:

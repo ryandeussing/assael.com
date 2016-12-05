@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-stud-earrings-yellow-gold.jpg
 category: Akoya
+order: 12
 tags:
   - earrings
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-paraiba-tourmaline-earrings.jpg
 category: Couture
+order: 4
 tags:
   - earrings
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-double-row-angel-skin-coral-necklace.jpg
 category: Classic Assael
+order: 5
 tags:
   - necklaces
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-violetta-yg-pave-earrings.jpg
 category: Akoya
+order: 4
 tags:
   - earrings
 ---

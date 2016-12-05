@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-ribbon-earrings.png
 category: Angela Cummings
+order: 10
 tags:
   - earrings
 ---

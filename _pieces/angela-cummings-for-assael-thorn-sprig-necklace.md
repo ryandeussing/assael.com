@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-thorn-sprig-necklace.png
 category: Angela Cummings
+order: 3
 tags:
   - necklaces
 ---

@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-cultured-pearl-earrings.png
 category: Classic Assael
+order: 28
 tags:
   - earrings
 ---

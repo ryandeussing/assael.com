@@ -9,6 +9,7 @@ specs: |
 images:
   - angela-cummings-for-assael-criss-cross-earring.png
 category: Angela Cummings
+order: 13
 tags:
   - earrings
 ---

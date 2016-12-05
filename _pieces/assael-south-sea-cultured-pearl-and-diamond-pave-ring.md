@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-south-sea-cultured-pearl-and-diamond-pave-ring.jpg
 category: Classic Assael
+order: 15
 tags:
   - rings
 ---

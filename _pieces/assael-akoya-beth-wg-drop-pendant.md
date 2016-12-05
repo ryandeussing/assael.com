@@ -7,6 +7,7 @@ specs: |
 images:
   - assael-akoya-beth-wg-drop-pendant.jpg
 category: Akoya
+order: 5
 tags:
   - necklaces
 ---

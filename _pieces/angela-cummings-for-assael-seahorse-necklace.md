@@ -7,6 +7,7 @@ specs: |
 images:
   - angela-cummings-for-assael-seahorse-necklace.png
 category: Angela Cummings
+order: 16
 tags:
   - necklaces
 ---
