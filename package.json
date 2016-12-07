@@ -1,16 +1,16 @@
 {
-  "name": "savas-take-two",
+  "name": "assael",
   "version": "1.0.0",
-  "description": "Savas Labs' company website",
+  "description": "Assael's company website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:savaslabs/savaslabs.github.io.git"
+    "url": "git@github.com:ryandeussing/assael.com"
   },
-  "author": "Savas Labs <info@savaslabs.com>",
+  "author": "Ryan Deussing <ryan@ryandeussing.com>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^6.4.0",
