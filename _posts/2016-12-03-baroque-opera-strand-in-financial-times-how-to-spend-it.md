@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Optimizing Jekyll Performance with Gulp
-date: 2016-10-19
-author: Anne Tomasevich
-tags: performance jekyll javascript css sass front-end-dev
+title: Baroque Opera Strand in Financial Times - How to Spend It
+date: 2016-12-03
 summary: |
-  How we improved our company site's performance with a better Jekyll workflow
-featured_image: "/blog/test-tubes.jpg"
+  Extraordinary Baroque South Sea Cultured Pearl Necklace featured in Financial Times - How to Spend It. Opera Length with 47 Pearls, 14.6 to 20.7mm, finished with a 18K White Gold and Diamond Clasp. ​​
+featured_image: "2016-12-03"
 featured_image_alt: "Test tubes with brightly color liquids inside"
 featured_image_height: "912px"
 featured_image_width: "1474px"
