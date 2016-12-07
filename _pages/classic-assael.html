@@ -1,11 +1,8 @@
 ---
 title: Classic Assael
-overview: |
+overview_markdown: |
   For centuries, strands of pearls have been the epitome of elegance and refined taste. When they are of the highest quality, their natural luster and luminous quality is incomparable. Assael travels the world for the most magnificent pearls, ensuring that our Classic Collection is a selection of future heirlooms, to be worn for the most memorable moments of a lifetime. ​​
 order: 1
-layout: default
-permalink: /collections/classic-assael/
-class: collection
 ---
 {% assign items = site.pieces | where:"category", "Classic Assael" | sort:"order" %}
 
@@ -15,7 +12,7 @@ class: collection
   <div class="inner center intro">
     <p class="title">{{page.title}} Collection</p>
     <hr>
-    <p>{{ page.overview|safe }}</p>
+    <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
 </section>
 

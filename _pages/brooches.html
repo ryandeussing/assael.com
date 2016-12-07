@@ -1,11 +1,8 @@
 ---
 title: Brooches
-overview: |
+overview_markdown: |
   Assael brooches feature classic and whimsical designs with stunning rare pearls as the centerpiece. Truly elegant and timeless, the perfect brooch makes a unique style statement.
 order: 1
-layout: default
-permalink: /categories/brooches/
-class: collection
 ---
 {% assign items = site.pieces | where_exp: "item", "item.tags contains 'brooches'" | sort:"order" %}
 
@@ -15,7 +12,7 @@ class: collection
   <div class="inner center intro">
     <p class="title">{{page.title}}</p>
     <hr>
-    <p>{{ page.overview }}</p>
+    <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
 </section>
 

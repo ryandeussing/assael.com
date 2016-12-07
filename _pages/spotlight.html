@@ -1,9 +1,5 @@
 ---
-layout: default
-title: Spotlight
-permalink: "/spotlight/"
-class: spotlight
-excerpt: Spotlight on Assael
+title: Spotlight on Assael
 ---
 {% for post in site.posts %}
   <section class="headline">
@@ -17,8 +13,8 @@ excerpt: Spotlight on Assael
     {% if post.featured_image %}
       <img class="featured-image {% if forloop.index > 4 %} lazy{% endif %}" src="/assets/img/{{ post.featured_image }}" alt="">
     {% endif %}
-    {% if post.summary %}
-      <p>{{ post.summary }}</p>
+    {% if post.summary_markdown %}
+      <p>{{ post.summary_markdown|markdownify }}</p>
     {% endif %}
   </section>
 {% endfor %}

@@ -1,7 +1,7 @@
 # Basic Info
 title: Assael
 description: >
-  About us...
+  One of the world’s leading pearl houses, specializing in haute joaillerie and precious stones.
 # Base URL is used in the manner that is specified by this guide
 # (http://jekyllrb.com/docs/github-pages/) which is to say, it's
 # not used at all.
@@ -11,8 +11,8 @@ url: "http://www.assael.com"
 # comment_server_enabled: 1
 
 # Professional and social media links
-twitter_username: example
-github_username: example
+instagram_username: assaelpearls
+pinterest_username: assael0106
 
 # Languages and syntax highlighting
 markdown: kramdown
@@ -45,11 +45,130 @@ collections:
 defaults:
   -
     scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      class: "home"
+      permalink: "/"
+  -
+    scope:
       type: "pieces"
       path: ""
     values:
       layout: "product"
       class: "product"
+  -
+    scope:
+      path: "_pages/akoya.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/akoya/"
+  -
+    scope:
+      path: "_pages/classic-assael.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/classic-assael/"
+  -
+    scope:
+      path: "_pages/angela-cummings.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/angela-cummings/"
+  -
+    scope:
+      path: "_pages/bracelets.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/categories/bracelets/"
+  -
+    scope:
+      path: "_pages/brooches.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/categories/brooches/"
+  -
+    scope:
+      path: "_pages/contact.html"
+    values:
+      layout: "default"
+      class: "contact"
+      permalink: "/contact/"
+  -
+    scope:
+      path: "_pages/couture.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/couture/"
+  -
+    scope:
+      path: "_pages/earrings.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/categories/earrings/"
+  -
+    scope:
+      path: "_pages/essentials.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/essentials/"
+  -
+    scope:
+      path: "_pages/julie-parker-endangered-species.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/julie-parker-endangered-species/"
+  -
+    scope:
+      path: "_pages/legacy.html"
+    values:
+      layout: "default"
+      class: "legacy"
+      permalink: "/legacy/"
+  -
+    scope:
+      path: "_pages/necklaces.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/categories/necklaces/"
+  -
+    scope:
+      path: "_pages/reho-concepts-for-assael.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/collections/reho-concepts-for-assael/"
+  -
+    scope:
+      path: "_pages/retailers.html"
+    values:
+      layout: "default"
+      class: "retailers"
+      permalink: "/retailers/"
+  -
+    scope:
+      path: "_pages/rings.html"
+    values:
+      layout: "default"
+      class: "collection"
+      permalink: "/categories/rings/"
+  -
+    scope:
+      path: "_pages/spotlight.html"
+    values:
+      layout: "default"
+      class: "spotlight"
+      permalink: "/spotlight/"
 
 # Gems
 gems:

@@ -1,11 +1,8 @@
 ---
 title: Couture
-overview: |
+overview_markdown: |
   When incredible craftsmanship, exceptional design sensibility and the finest gemstones meet, the result is nothing short of breathtaking. Assael Couture pushes the boundaries of established fine jewelry design with audacious and imaginative silhouettes and color palettes.
 order: 4
-layout: default
-permalink: /collections/couture/
-class: collection
 ---
 {% assign items = site.pieces | where:"category", "Couture" | sort:"order" %}
 
@@ -15,7 +12,7 @@ class: collection
   <div class="inner center intro">
     <p class="title">{{page.title}} Collection</p>
     <hr>
-    <p>{{ page.overview|safe }}</p>
+    <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
 </section>
 

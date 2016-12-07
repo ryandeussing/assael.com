@@ -1,11 +1,8 @@
 ---
 title: Akoya
-overview: |
+overview_markdown: |
   Renowned for their incomparable luster and lovely rose, silver and cream tones, these specimens are what many consider the archetypical pearl. Assael’s Akoya Collection features refined, traditional designs key to any well-dressed woman’s jewelry wardrobe.
 order: 3
-layout: default
-permalink: /collections/akoya/
-class: collection
 ---
 {% assign items = site.pieces | where:"category", "Akoya" | sort:"order" %}
 
@@ -15,7 +12,7 @@ class: collection
   <div class="inner center intro">
     <p class="title">{{page.title}} Collection</p>
     <hr>
-    <p>{{ page.overview|safe }}</p>
+    <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
 </section>
 

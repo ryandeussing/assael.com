@@ -1,11 +1,8 @@
 ---
 title: Earrings
-overview: |
+overview_markdown: |
   Assael earrings feature luminous pearls that enhance any skin tone, highlighting your best features. Available in an array of gorgeous designs – from classic to couture – with sparkling diamond accents.
 order: 1
-layout: default
-permalink: /categories/earrings/
-class: collection
 ---
 {% assign items = site.pieces | where_exp: "item", "item.tags contains 'earrings'" | sort:"order" %}
 
@@ -15,7 +12,7 @@ class: collection
   <div class="inner center intro">
     <p class="title">{{page.title}}</p>
     <hr>
-    <p>{{ page.overview }}</p>
+    <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
 </section>
 
