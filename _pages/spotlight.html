@@ -6,19 +6,19 @@ class: spotlight
 excerpt: Spotlight on Assael
 ---
 {% for post in site.posts %}
-<section class="headline">
-  <div class="inner center intro">
-    <p class="title">{{post.title}}</p>
-    <hr>
-  </div>
-</section>
+  <section class="headline">
+    <div class="inner center intro">
+      <p class="title">{{post.title}}</p>
+      <hr>
+    </div>
+  </section>
 
-<section class="post">
-  {% if post.featured_image %}
-    <img class="featured-image" src="/assets/img/{{ post.featured_image }}" alt="">
-  {% endif %}
-  {% if post.summary %}
-    <p>{{ post.summary }}</p>
-  {% endif %}
-</section>
+  <section class="post">
+    {% if post.featured_image %}
+      <img class="featured-image {% if forloop.index > 4 %} lazy{% endif %}" src="/assets/img/{{ post.featured_image }}" alt="">
+    {% endif %}
+    {% if post.summary %}
+      <p>{{ post.summary }}</p>
+    {% endif %}
+  </section>
 {% endfor %}

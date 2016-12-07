@@ -27,7 +27,7 @@ class: collection
         <div class="product">
           <!-- <hr> -->
           {% if item.images[0] %}
-          <a href="{{ item.url }}"><img src="/assets/img/{{ item.images[0] }}" alt=""></a>
+          <a href="{{ item.url }}"><img src="/assets/img/{{ item.images[0] }}" alt="" {% if forloop.index > 4 %} class="lazy" {% endif %}></a>
           {% endif %}
           <div class="title-wrapper">
             <p class="title">{{ item.title }}</p>
