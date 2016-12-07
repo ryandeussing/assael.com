@@ -8,9 +8,10 @@
       <div id="body-inner">
         {% include header.html %}
         {{ content }}
+        {% include footer.html %}
       </div>
     </div>
-    {% include footer.html %}
+    <!-- {% include footer.html %} -->
   </body>
 
   {% if page.class == 'home' %}
