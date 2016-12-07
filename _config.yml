@@ -25,8 +25,8 @@ kramdown:
 include: ["_pages"]
 
 # Blog
-paginate: 6
-paginate_path: "/blog/:num/"
+# paginate: 2
+# paginate_path: "/blog/:num/"
 
 # For Travis CI and gulp
 exclude: ["_assets",
@@ -54,7 +54,7 @@ defaults:
 # Gems
 gems:
   - jekyll-sitemap
-  - jekyll-paginate
+  # - jekyll-paginate
   # jekyll-picture-tag
   # jemoji
 
