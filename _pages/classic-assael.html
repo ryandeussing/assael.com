@@ -23,7 +23,8 @@ order: 1
           {% if item.images[0] %}
             {% if forloop.index < 5 %}
               <a href="{{ item.url }}">
-                {% picture collection {{ item.images[0] }} alt="{{ item.title }}" %}
+                {% picture collection {{ item.images[0] }} alt="{{ item.title }}"
+                class="lazyload" %}
               </a>
             {% else %}
               <a href="{{ item.url }}">

@@ -1,3 +1,13 @@
+GIT
+  remote: git://github.com/ryandeussing/jekyll-picture-tag.git
+  revision: 66d91c9a6b07ad96379e1bd81d9edfd12bd86cd4
+  branch: master
+  specs:
+    jekyll-picture-tag (0.3.0)
+      fastimage (~> 1.6.4)
+      jekyll (< 4)
+      mini_magick (~> 3.8.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -18,10 +28,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-picture-tag (0.3.0)
-      fastimage (~> 1.6.4)
-      jekyll (< 4)
-      mini_magick (~> 3.8.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-sitemap (0.10.0)
@@ -56,7 +62,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.2.1)
-  jekyll-picture-tag
+  jekyll-picture-tag!
   jekyll-sitemap
   json (~> 1.8.3)
   scss_lint
