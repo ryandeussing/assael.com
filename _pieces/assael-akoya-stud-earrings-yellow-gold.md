@@ -9,6 +9,5 @@ images:
 category: Akoya
 order: 12
 tags:
-  - earrings
 ---
 

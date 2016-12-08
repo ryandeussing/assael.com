@@ -9,5 +9,4 @@ images:
 category: Akoya
 order: 13
 tags:
-  - bracelets
 ---

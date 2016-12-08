@@ -22,9 +22,16 @@ order: 1
     <div class="inner">
       {% for item in items %}
         <div class="product">
-          <!-- <hr> -->
           {% if item.images[0] %}
-          <a href="{{ item.url }}"><img src="/assets/img/{{ item.images[0] }}" alt="" {% if forloop.index > 4 %} class="lazy" {% endif %}></a>
+            {% if forloop.index < 5 %}
+              <a href="{{ item.url }}">
+                {% picture collection {{ item.images[0] }} alt="{{ item.title }}" %}
+              </a>
+            {% else %}
+              <a href="{{ item.url }}">
+                {% picture collection {{ item.images[0] }} alt="{{ item.title }}" class="lazyload" %}
+              </a>
+            {% endif %}
           {% endif %}
           <div class="title-wrapper">
             <p class="title">{{ item.title }}</p>

@@ -37,19 +37,6 @@ gulp.task('build:styles:main', function() {
         .on('error', gutil.log);
 });
 
-//gulp.task('build:styles:main', function() {
-//    return sass(paths.sassFiles + '/main.scss', {
-//        style: 'compressed',
-//        trace: true,
-//        loadPath: [paths.sassFiles]
-//    }).pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
-//        .pipe(cleancss())
-//        .pipe(gulp.dest(paths.jekyllCssFiles)) // for jekyll build
-//        .pipe(gulp.dest(paths.siteCssFiles))   // for local browserSync
-//        .pipe(browserSync.stream())
-//        .on('error', gutil.log);
-//});
-
 // Processes critical CSS, to be included in head.html.
 gulp.task('build:styles:critical', function() {
     return sass(paths.sassFiles + '/critical.scss', {
@@ -92,25 +79,6 @@ gulp.task('clean:scripts', function(callback) {
     del([paths.jekyllJsFiles + 'main.js', paths.siteJsFiles + 'main.js']);
     callback();
 });
-
-// Concatenates and uglifies leaflet JS files and outputs result to the
-// appropriate location.
-// gulp.task('build:scripts:leaflet', function() {
-//     return gulp.src([
-//         paths.jsFiles + '/leaflet/leaflet.js',
-//         paths.jsFiles + '/leaflet/leaflet-providers.js'
-//     ])
-//         .pipe(concat('leaflet.js'))
-//         .pipe(uglify())
-//         .pipe(gulp.dest(paths.jekyllJsFiles))
-//         .pipe(gulp.dest(paths.siteJsFiles))
-//         .on('error', gutil.log);
-// });
-
-// gulp.task('clean:scripts:leaflet', function(callback) {
-//     del([paths.jekyllJsFiles + 'leaflet.js', paths.siteJsFiles + 'leaflet.js']);
-//     callback();
-// });
 
 // Builds all scripts.
 // gulp.task('build:scripts', ['build:scripts:global', 'build:scripts:leaflet']);

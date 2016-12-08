@@ -8,5 +8,4 @@ images:
 category: Akoya
 order: 15
 tags:
-  - rings
 ---

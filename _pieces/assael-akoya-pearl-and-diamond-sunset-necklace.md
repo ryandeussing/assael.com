@@ -9,5 +9,4 @@ images:
 category: Classic Assael
 order: 6
 tags:
-  - necklaces
 ---
