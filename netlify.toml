@@ -1,3 +1,11 @@
+# Global:
 [build]
-publish = "_site"
-command = "gulp"
+  publish = "_site"
+
+# Production:
+[context.production]
+  command = "gulp build"
+
+# Production:
+[context.deploy-preview.environment]
+  command = "build:jekyll:local"
