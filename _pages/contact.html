@@ -1,5 +1,6 @@
 ---
 title: Contact Us
+image_path: /assets/img/contact-img.jpg
 ---
 <main>
     <section class="headline">
@@ -8,7 +9,12 @@ title: Contact Us
         <hr>
       </div>
     </section>
+
+    <div class="image-wrapper">
+      <img src="{{ page.image_path }}" alt="">
+    </div>
     <div class="contact-copy">
+      <!-- <img src="{{ page.image_path }}" alt=""> -->
       <p>Thank you for your interest in Assael. We are committed to providing the highest quality of service. </p>
 
       <p>For all inquiries, including press and wholesale, please email us at <a href="mailto:info@assael.com">info@assael.com</a>.</p>
@@ -17,7 +23,6 @@ title: Contact Us
         Monday – Friday, 9am – 5pm EST. {{contact.phone}}</p>
 
       <p>For the nearest authorized retailer, please visit the <a href="/retailers">Store Locator</a>.</p>
-
     </div>
 
 </main>
