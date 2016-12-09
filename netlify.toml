@@ -1,6 +1,6 @@
 # Global:
-[build]
-  publish = "_site"
+# [build]
+#   publish = "_site"
 
 # Production:
 [context.production]
