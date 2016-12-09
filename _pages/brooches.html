@@ -1,16 +1,16 @@
 ---
-title: Akoya
+title: Brooches
 overview_markdown: |
-  Renowned for their incomparable luster and lovely rose, silver and cream tones, these specimens are what many consider the archetypical pearl. Assael’s Akoya Collection features refined, traditional designs key to any well-dressed woman’s jewelry wardrobe.
-order: 3
+  Assael brooches feature classic and whimsical designs with stunning rare pearls as the centerpiece. Truly elegant and timeless, the perfect brooch makes a unique style statement.
+order: 1
 ---
-{% assign items = site.pieces | where:"category", "Akoya" | sort:"order" %}
+{% assign items = site.pieces | where_exp: "item", "item.tags contains 'brooches'" | sort:"order" %}
 
 <main>
 
 <section class="headline">
   <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
+    <p class="title">{{page.title}}</p>
     <hr>
     <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
