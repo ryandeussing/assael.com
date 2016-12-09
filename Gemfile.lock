@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/ryandeussing/jekyll-picture-tag.git
-  revision: 66d91c9a6b07ad96379e1bd81d9edfd12bd86cd4
+  revision: d9ab5412d4191d214cc16640c4bc971f755a8168
   branch: master
   specs:
     jekyll-picture-tag (0.3.0)
