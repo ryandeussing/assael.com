@@ -1,6 +1,6 @@
 # Global:
-# [build]
-#   publish = "_site"
+[build]
+  publish = "_site"
 
 # Production:
 [context.production]
@@ -8,4 +8,4 @@
 
 # Deploy Preview:
 [context.deploy-preview.environment]
-  command = "gulp build:jekyll:local"
+  command = "gulp build:local"
