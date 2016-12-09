@@ -1,7 +1,3 @@
-# Global:
-[build]
-  publish = "_site"
-
 # Production:
 [context.production]
   command = "gulp build"
