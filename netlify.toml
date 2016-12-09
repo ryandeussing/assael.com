@@ -6,6 +6,6 @@
 [context.production]
   command = "gulp build"
 
-# Production:
+# Deploy Preview:
 [context.deploy-preview.environment]
-  command = "build:jekyll:local"
+  command = "gulp build:jekyll:local"
