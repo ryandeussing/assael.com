@@ -3,5 +3,5 @@
   command = "gulp build"
 
 # Deploy Preview:
-[context.deploy-preview.environment]
+[context.deploy-preview]
   command = "gulp build:local"
