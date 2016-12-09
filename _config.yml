@@ -185,9 +185,6 @@ picture:
       attr:
         itemprop: "image"
       ppi: [1, 1.5]
-      source_768:
-        media: "(min-width: 769px)"
-        width: "452"
       source_400:
         media: "(min-width: 400px)"
         width: "579"
@@ -200,57 +197,8 @@ picture:
       source_1025:
         media: "(min-width: 1024px)"
         width: "949"
-      source_768:
-        media: "(min-width: 768px)"
-        width: "506"
       source_668:
         media: "(min-width: 668px)"
         width: "675"
-      source_400:
-        media: "(min-width: 400px)"
-        width: "554"
       source_default:
         width: "331"
-    # team_individual:
-    #   attr:
-    #     class: "image--team-individual"
-    #     itemprop: "image"
-    #   ppi: [1, 2]
-    #   source_400:
-    #     media: "(min-width: 400px)"
-    #     width: "350"
-    #   source_default:
-    #     width: "288"
-    # team_post_meta:
-    #   attr:
-    #     class: "image--team-post-meta"
-    #     itemprop: "image"
-    #   ppi: [1, 2]
-    #   source_default:
-    #     width: "288"
-    # case_study:
-    #   attr:
-    #     class: "image--case-study"
-    #     itemprop: "image"
-    #   ppi: [1, 2]
-    #   source_860:
-    #     media: "(min-width: 860px)"
-    #     width: "560"
-    #   source_640:
-    #     media: "(min-width: 640px)"
-    #     width: "430"
-    #   source_400:
-    #     media: "(min-width: 400px)"
-    #     width: "560"
-    #   source_default:
-    #     width: "400"
-    # post_featured_image:
-    #   attr:
-    #     class: "image--post-featured-image"
-    #     itemprop: "image"
-    #   ppi: [1, 2]
-    #   source_1120:
-    #     media: "(min-width: 400px)"
-    #     width: "737"
-    #   source_default:
-    #     width: "400"
