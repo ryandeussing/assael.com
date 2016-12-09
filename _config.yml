@@ -197,15 +197,18 @@ picture:
       attr:
         itemprop: "image"
       ppi: [1, 1.5]
-      source_1024:
+      source_1025:
         media: "(min-width: 1024px)"
-        width: "483"
+        width: "949"
       source_768:
         media: "(min-width: 768px)"
-        width: "610"
+        width: "506"
+      source_668:
+        media: "(min-width: 668px)"
+        width: "675"
       source_400:
         media: "(min-width: 400px)"
-        width: "527"
+        width: "554"
       source_default:
         width: "331"
     # team_individual:

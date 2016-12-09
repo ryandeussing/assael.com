@@ -11,10 +11,12 @@ title: Spotlight on Assael
 
   <section class="post">
     {% if post.featured_image %}
-      <img class="featured-image {% if forloop.index > 4 %} lazy{% endif %}" src="/assets/img/{{ post.featured_image }}" alt="">
+      {% picture spotlight {{ post.featured_image }} alt="{{ post.title }}" class="featured-image lazyload" %}
     {% endif %}
+
     {% if post.summary_markdown %}
       <p>{{ post.summary_markdown|markdownify }}</p>
     {% endif %}
+
   </section>
 {% endfor %}
