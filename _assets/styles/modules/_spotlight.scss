@@ -1,20 +1,22 @@
 .spotlight {
-    section.post {
+  section.text {
     @include breakpoint($s-up){
       margin-top: 1rem;
     }
     @include breakpoint($m-up){
       margin-top: 2rem;
     }
+    .inner {
+      @include breakpoint($s-up){
+        @include span-columns(10);
+        @include shift(1);
+      }
+      // @include breakpoint($m-up){
+      //   @include span-columns(10);
+      //   @include shift(2);
+      // }
+    }
     margin-bottom: 5rem;
-    @include breakpoint($s-up){
-      @include span-columns(10);
-      @include shift(1);
-    }
-    @include breakpoint($m-up){
-      @include span-columns(8);
-      @include shift(2);
-    }
     text-align: center;
     p {
       text-align: left;
@@ -24,8 +26,8 @@
       }
       @include breakpoint($ipad-up) {
         font-size: 1rem;
-        @include span-columns(6 of 8);
-        @include shift(1);
+        @include span-columns(6 of 10);
+        @include shift(2);
       }
     }
     p.title {
