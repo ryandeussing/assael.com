@@ -1,4 +1,19 @@
 .legacy {
+  margin-top: 100px;
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    @include breakpoint($s-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+    @include breakpoint($x-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+  }
+  // #body-inner {
+  //   margin-top: 100px;
+  // }
   section.headline {
     @include breakpoint($s-up){
       margin-top: 1rem;

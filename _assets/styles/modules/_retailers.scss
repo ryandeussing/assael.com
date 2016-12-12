@@ -1,4 +1,12 @@
 .retailers {
+  header {
+    @include breakpoint($s-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+    @include breakpoint($x-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+  }
   section {
     margin-top: 2rem;
     margin-bottom: 1rem;

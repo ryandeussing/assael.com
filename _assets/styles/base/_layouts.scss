@@ -1,4 +1,4 @@
-main, header {
+main {
   text-align: left;
   @include container();
   @include breakpoint($s-up) {
@@ -6,6 +6,15 @@ main, header {
   }
   @include breakpoint($x-up) {
     @include pad(1rem 0);
+  }
+}
+
+.home header {
+  @include breakpoint($s-up) {
+    @include pad(.5rem 0 0 0);
+  }
+  @include breakpoint($x-up) {
+    @include pad(.5rem 0 0 0);
   }
 }
 
