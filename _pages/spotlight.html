@@ -9,14 +9,15 @@ title: Spotlight on Assael
     </div>
   </section>
 
-  <section class="post">
-    {% if post.featured_image %}
-      {% picture spotlight {{ post.featured_image }} alt="{{ post.title }}" class="featured-image lazyload" %}
-    {% endif %}
+  <section class="text">
+    <div class="inner">
+      {% if post.featured_image %}
+        {% picture spotlight {{ post.featured_image }} alt="{{ post.title }}" class="featured-image lazyload" %}
+      {% endif %}
 
-    {% if post.summary_markdown %}
-      <p>{{ post.summary_markdown|markdownify }}</p>
-    {% endif %}
-
+      {% if post.summary_markdown %}
+        <p>{{ post.summary_markdown|markdownify }}</p>
+      {% endif %}
+    </div>
   </section>
 {% endfor %}
