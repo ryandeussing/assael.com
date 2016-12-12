@@ -1,5 +1,20 @@
 
 body.collection {
+  margin-top: 70px;
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    @include breakpoint($s-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+    @include breakpoint($x-up) {
+      @include pad(.5rem 0 .5rem 0);
+    }
+  }
+  // #body-inner {
+  //   margin-top: 70px;
+  // }
   main {
     // @include breakpoint($s-up) {
     //   @include container();
