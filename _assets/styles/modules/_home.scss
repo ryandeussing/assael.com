@@ -1,4 +1,8 @@
 .home {
+  // margin-top: 90px;
+  // #body-inner {
+  //   margin-top: 90px;
+  // }
   @include breakpoint($l-up){
     height: 100vh;
     @include sticky-footer(40px);
@@ -47,10 +51,7 @@
       height: 100vh;
     }
   }
-  main {
-
-  }
-  section.hero {
-    // background-color: yellow;
+  #footer {
+    margin-top: 1rem;
   }
 }
