@@ -88,7 +88,7 @@ gulp.task('build:scripts', ['build:scripts:global']);
 gulp.task('build:images', function() {
     return gulp.src(paths.imageFilesGlob)
         // TODO: set this up to only happen on new images
-        // .pipe(imagemin())
+        .pipe(imagemin())
         .pipe(gulp.dest(paths.jekyllImageFiles))
         .pipe(gulp.dest(paths.siteImageFiles))
         .pipe(browserSync.stream());
