@@ -1,4 +1,4 @@
-collections:
+collections-dropdown:
   - title: Classic Assael
     url: /collections/classic-assael
   - title: Essentials
@@ -16,7 +16,7 @@ collections:
         url: /collections/julie-parker-endangered-species
       - title: Reho Concepts for Assael
         url: /collections/reho-concepts-for-assael
-categories:
+categories-dropdown:
   - title: Necklaces
     url: /categories/necklaces
   - title: Earrings
@@ -27,12 +27,12 @@ categories:
     url: /categories/brooches
   - title: Rings
     url: /categories/rings
-about:
+about-dropdown:
   - title: Our History
     url: /legacy
   - title: Spotlight
     url: /spotlight
-contact:
+contact-dropdown:
   - title: Find a Retailer
     url: /retailers
   - title: Contact Assael

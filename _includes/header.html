@@ -12,7 +12,7 @@
 
           <li class="nav-link more"><a href="javascript:void(0)">collections</a>
             <ul class="submenu">
-              {% for collection in site.data.navigation.collections %}
+              {% for collection in site.data.navigation.collections-dropdown %}
                 {% if collection.submenu %}
                   <li class="more collection"><a href="javascript:void(0)">{{ collection.title }}</a>
                     <ul class="submenu">
@@ -31,7 +31,7 @@
 
         <li class="nav-link more"><a href="javascript:void(0)">categories</a>
           <ul class="submenu">
-            {% for category in site.data.navigation.categories %}
+            {% for category in site.data.navigation.categories-dropdown %}
             <li><a href="{{ category.url }}">{{ category.title }}</a></li>
             {% endfor %}
           </ul>
@@ -43,14 +43,14 @@
         </li>
         <li class="nav-link more"><a href="javascript:void(0)">About</a>
           <ul class="submenu">
-            {% for category in site.data.navigation.about %}
+            {% for category in site.data.navigation.about-dropdown %}
             <li><a href="{{ category.url }}">{{ category.title }}</a></li>
             {% endfor %}
           </ul>
         </li>
         <li class="nav-link more"><a href="javascript:void(0)">Contact</a>
           <ul class="submenu">
-            {% for category in site.data.navigation.contact %}
+            {% for category in site.data.navigation.contact-dropdown %}
             <li><a href="{{ category.url }}">{{ category.title }}</a></li>
             {% endfor %}
           </ul>
