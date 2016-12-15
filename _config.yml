@@ -21,7 +21,8 @@ kramdown:
   syntax-highlighter: rouge
 
 # Include static pages.
-include: ["_pages"]
+include:
+  - _pages
 
 # Blog
 # paginate: 2
@@ -40,6 +41,9 @@ collections:
   pieces:
     output: true
     permalink: /pieces/:path/
+  _pages:
+    output: true
+    permalink: '/:path/'
 
 defaults:
   -
