@@ -44,7 +44,7 @@ collections:
 defaults:
   -
     scope:
-      path: "index.html"
+      path: "_pages/index.html"
     values:
       layout: "default"
       class: "home"
