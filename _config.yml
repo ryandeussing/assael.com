@@ -86,7 +86,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "akoya.html"
+      path: "akoya.md"
     values:
       layout: "collection"
       class: "collection"
