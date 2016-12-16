@@ -37,11 +37,11 @@ $(function() {
 });
 
 // TODO: implement https://afarkas.github.io/lazysizes/ for pictureset
-// $(function() {
-//   $('img.lazy').unveil({
-//     throttle: 200,
-//     placeholder: 'https://placehold.it/451x567/e8287f'
-//     // placeholder: '/assets/img/trans.gif'
-//   });
-// });
+$(function() {
+  $('img.lazy').unveil({
+    throttle: 200,
+    placeholder: 'https://placehold.it/451x567/e8287f'
+    // placeholder: '/assets/img/trans.gif'
+  });
+});
 
