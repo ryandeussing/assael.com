@@ -5,7 +5,7 @@ description: |
 specs: |
   Japanese Akoya Cultured Pearls, 7 Rows, 568 Pearls ranging from 6.0 - 8.5mm. Diamond Pave Spheres placed intermittently, 3.6 ctw., set in 18K White Gold.
 images:
-  - assael-akoya-pearl-and-diamond-sunset-necklace.jpg
+  - /uploads/assael-akoya-pearl-and-diamond-sunset-necklace.jpg
 category: Classic Assael
 order: 6
 tags:

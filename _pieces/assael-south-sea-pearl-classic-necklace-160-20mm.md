@@ -5,7 +5,7 @@ description: |
 specs: |
   16.0 - 20mm South Sea Cultured Pearls with Pave Sapphire Clasp.
 images:
-  - assael-south-sea-pearl-classic-necklace-160-20mm.png
+  - /uploads/assael-south-sea-pearl-classic-necklace-160-20mm.png
 category: Classic Assael
 order: 13
 tags:

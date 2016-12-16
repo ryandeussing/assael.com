@@ -5,7 +5,7 @@ description: |
 specs: |
   Assael offers a variety of pearl sizes and lengths. Pearl size ranges from 6.5mm to 9.5mm and length from 16" to 100" or more.
 images:
-  - assael-akoya-pearl-necklaces.jpg
+  - /uploads/assael-akoya-pearl-necklaces.jpg
 category: Akoya
 order: 16
 tags:

@@ -5,7 +5,7 @@ description: |
 specs: |
   8.10 mm Akoya Cultured Pearls with 10.67 carats of Orange Sapphires, set in 18K Yellow Gold and Titanium.
 images:
-  - assael-flora-collection-orange-sapphire-earrings.png
+  - /uploads/assael-flora-collection-orange-sapphire-earrings.png
 category: Couture
 order: 1
 tags:

@@ -5,7 +5,7 @@ description: |
 specs: |
   13.8 - 13.9mm South Sea Cultured Pearls with 13.81 carats of Diamonds set in Platinum.
 images:
-  - assael-south-sea-cultured-pearl-earrings.png
+  - /uploads/assael-south-sea-cultured-pearl-earrings.png
 category: Classic Assael
 order: 28
 tags:

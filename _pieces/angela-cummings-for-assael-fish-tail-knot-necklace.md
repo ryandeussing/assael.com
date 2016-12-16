@@ -5,7 +5,7 @@ description: |
 specs: |
   7 1/2 - 8mm Cultured Pearls with 2.18 carats of White Diamonds, set in Platinum.
 images:
-  - angela-cummings-for-assael-fish-tail-knot-necklace.png
+  - /uploads/angela-cummings-for-assael-fish-tail-knot-necklace.png
 category: Angela Cummings
 order: 23
 tags:

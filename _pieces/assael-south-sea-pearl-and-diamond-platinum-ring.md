@@ -5,7 +5,7 @@ description: |
 specs: |
   South Sea Cultured Pearl Ring, 16.6 - 17.5mm, set in Platinum with Diamonds, 16 Round Diamonds, 3.08 ctw.
 images:
-  - assael-south-sea-pearl-and-diamond-platinum-ring.jpg
+  - /uploads/assael-south-sea-pearl-and-diamond-platinum-ring.jpg
 category: Classic Assael
 order: 3
 tags:

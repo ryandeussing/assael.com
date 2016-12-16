@@ -5,7 +5,7 @@ description: |
 specs: |
   12.2 - 15.3mm South Sea Natural Color Cultured Pearls with 18K Yellow Gold and Pave Diamond Clasp.
 images:
-  - assael-golden-south-sea-pearl-necklace-122-153mm.png
+  - /uploads/assael-golden-south-sea-pearl-necklace-122-153mm.png
 category: Classic Assael
 order: 21
 tags:

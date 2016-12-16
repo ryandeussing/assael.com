@@ -5,7 +5,7 @@ description: |
 specs: |
   12.7 - 12.0mm South Sea Cultured Pearls with 55.87 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
-  - angela-cummings-for-assael-swirl-necklace.png
+  - /uploads/angela-cummings-for-assael-swirl-necklace.png
 category: Angela Cummings
 order: 5
 tags:

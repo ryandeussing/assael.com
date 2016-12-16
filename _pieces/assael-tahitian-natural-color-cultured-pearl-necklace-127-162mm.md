@@ -5,7 +5,7 @@ description: |
 specs: |
   12.7 - 16.2mm Tahitian Natural Color Cultured Pearls with Pave Diamond Clasp.
 images:
-  - assael-tahitian-natural-color-cultured-pearl-necklace-127-162mm.png
+  - /uploads/assael-tahitian-natural-color-cultured-pearl-necklace-127-162mm.png
 category: Classic Assael
 order: 14
 tags:

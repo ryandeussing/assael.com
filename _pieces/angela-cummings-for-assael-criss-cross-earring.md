@@ -7,7 +7,7 @@ description: |
 specs: |
   Pair of South Sea Pearl Buttons 12.8 - 12.2mm set in Platinum/ 18K WG with 44 Diamonds = 4.75ct
 images:
-  - angela-cummings-for-assael-criss-cross-earring.png
+  - /uploads/angela-cummings-for-assael-criss-cross-earring.png
 category: Angela Cummings
 order: 13
 tags:

@@ -7,7 +7,7 @@ specs: |
 
   EARRINGS: 11.2 - 11.3mm South Sea Pearls with 2.90 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
-  - angela-cummings-for-assael-scallop-necklace-earrings.png
+  - /uploads/angela-cummings-for-assael-scallop-necklace-earrings.png
 category: Angela Cummings
 order: 17
 tags:

@@ -5,7 +5,7 @@ description: |
 specs: |
   13.8 - 8.0mm Multicolored South Sea Cultured Pearls with 9.68 carats of White Diamonds, 51.89 carats of Multicolored Sapphires and 6.261 carats of Tsavorite Garnets, set in 18K White Gold.
 images:
-  - assael-tropical-luxe-collection-necklace.png
+  - /uploads/assael-tropical-luxe-collection-necklace.png
 category: Couture
 order: 2
 tags:

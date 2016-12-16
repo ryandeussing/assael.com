@@ -5,7 +5,7 @@ description: |
 specs: |
   Golden South Sea Pearl ring, 13.9 x 14.5mm, set in 18K White gold, with 130 Diamonds, 4.01 ctw.
 images:
-  - assael-golden-south-sea-and-diamond-pearl-ring.jpg
+  - /uploads/assael-golden-south-sea-and-diamond-pearl-ring.jpg
 category: Classic Assael
 order: 23
 tags:

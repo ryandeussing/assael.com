@@ -5,7 +5,7 @@ description: |
 specs: |
   Natural Color Tahitian Cultured Pearl, 14.8 - 15.7mm, 4 Pear Shaped Diamonds, 1.63 ctw. 2 Round Diamonds, .44 ctw. Hand Set in 18K White Gold.
 images:
-  - assael-natural-color-tahitian-cultured-pearl-and-diamond-ring.jpg
+  - /uploads/assael-natural-color-tahitian-cultured-pearl-and-diamond-ring.jpg
 category: Classic Assael
 order: 10
 tags:

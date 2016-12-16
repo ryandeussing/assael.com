@@ -5,7 +5,7 @@ description: |
 specs: |
   13.0 - 9.7mm Baroque South Sea Pearls with 1.94 carats of White Diamonds, set in Platinum and 18K Yellow Gold.
 images:
-  - angela-cummings-for-assael-seahorse-necklace.png
+  - /uploads/angela-cummings-for-assael-seahorse-necklace.png
 category: Angela Cummings
 order: 16
 tags:
