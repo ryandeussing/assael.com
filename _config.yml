@@ -101,7 +101,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "classic-assael.html"
+      path: "classic-assael.md"
     values:
       layout: "collection"
       class: "collection"
@@ -116,7 +116,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "angela-cummings.html"
+      path: "angela-cummings.md"
     values:
       layout: "collection"
       class: "collection"
@@ -131,7 +131,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "bracelets.html"
+      path: "bracelets.md"
     values:
       layout: "collection"
       class: "collection"
@@ -139,7 +139,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "brooches.html"
+      path: "brooches.md"
     values:
       layout: "collection"
       class: "collection"
@@ -147,14 +147,14 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "contact.html"
+      path: "contact.md"
     values:
       layout: "default"
       class: "contact"
       permalink: "/contact/"
   -
     scope:
-      path: "couture.html"
+      path: "couture.md"
     values:
       layout: "collection"
       class: "collection"
@@ -169,7 +169,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "earrings.html"
+      path: "earrings.md"
     values:
       layout: "collection"
       class: "collection"
@@ -177,7 +177,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "essentials.html"
+      path: "essentials.md"
     values:
       layout: "collection"
       class: "collection"
@@ -192,7 +192,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "julie-parker-endangered-species.html"
+      path: "julie-parker-endangered-species.md"
     values:
       layout: "collection"
       class: "collection"
@@ -207,7 +207,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "legacy.html"
+      path: "legacy.md"
     values:
       layout: "default"
       class: "legacy"
@@ -215,7 +215,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "necklaces.html"
+      path: "necklaces.md"
     values:
       layout: "collection"
       class: "collection"
@@ -223,7 +223,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "reho-concepts-for-assael.html"
+      path: "reho-concepts-for-assael.md"
     values:
       layout: "collection"
       class: "collection"
@@ -238,7 +238,7 @@ defaults:
       class: "product"
   -
     scope:
-      path: "retailers.html"
+      path: "retailers.md"
     values:
       layout: "default"
       class: "retailers"
@@ -246,7 +246,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "rings.html"
+      path: "rings.md"
     values:
       layout: "collection"
       class: "collection"
@@ -254,7 +254,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "spotlight.html"
+      path: "spotlight.md"
     values:
       layout: "default"
       class: "spotlight"
@@ -264,34 +264,4 @@ defaults:
 # Gems
 gems:
   - jekyll-sitemap
-  # - jekyll-picture-tag
-  # - jekyll-paginate
-  # jemoji
 
-# Picture element presets
-# picture:
-#   source: "uploads/"
-#   output: "uploads/processed-img"
-#   markup: "picture"
-#   presets:
-#     collection:
-#       attr:
-#         itemprop: "image"
-#       ppi: [1, 1.5]
-#       source_400:
-#         media: "(min-width: 400px)"
-#         width: "579"
-#       source_default:
-#         width: "273"
-#     spotlight:
-#       attr:
-#         itemprop: "image"
-#       ppi: [1, 1.5]
-#       source_1025:
-#         media: "(min-width: 1024px)"
-#         width: "949"
-#       source_668:
-#         media: "(min-width: 668px)"
-#         width: "675"
-#       source_default:
-#         width: "331"
