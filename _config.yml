@@ -21,8 +21,8 @@ kramdown:
   syntax-highlighter: rouge
 
 # Include static pages.
-# include:
-#  - _pages
+include:
+ - _pages
 
 # Blog
 # paginate: 2
