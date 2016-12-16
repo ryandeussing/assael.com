@@ -22,7 +22,7 @@ kramdown:
 
 # Include static pages.
 include:
- - _pages
+ - _landingpages
 
 # Blog
 # paginate: 2
@@ -38,139 +38,174 @@ exclude: ["_assets",
 
 # Collections
 collections:
-  pieces:
+  akoya:
     output: true
+    merge: true
     _hide_content: true
-    permalink: /pieces/:path/
-  _pages:
+    permalink: /akoya/:path/
+  angela-cummings:
     output: true
-    permalink: '/:path/'
+    merge: true
+    _hide_content: true
+    permalink: /angela-cummings/:path/
+  classic-assael:
+    output: true
+    merge: true
+    _hide_content: true
+    permalink: /classic-assael/:path/
+  couture:
+    output: true
+    merge: true
+    _hide_content: true
+    permalink: /couture/:path/
+  essentials:
+    output: true
+    merge: true
+    _hide_content: true
+    permalink: /essentials/:path/
+  julie-parker:
+    output: true
+    merge: true
+    _hide_content: true
+    permalink: /julie-parker-endangered-species/:path/
+  reho-concepts:
+    output: true
+    merge: true
+    _hide_content: true
+    permalink: /reho-concepts-for-assael/:path/
+  # pieces:
+  #   output: true
+  #   _hide_content: true
+  #   permalink: /pieces/:path/
+  # _pages:
+  #   output: true
+  #   permalink: '/:path/'
 
 defaults:
   -
     scope:
-      path: "_pages/home.html"
+      path: "_landingpages/home.html"
     values:
       title: "Home"
       layout: "default"
       class: "home"
       _hide_content: true
       permalink: "/"
+  # -
+  #   scope:
+  #     type: "pieces"
+  #     path: ""
+  #   values:
+  #     layout: "product"
+  #     class: "product"
   -
     scope:
-      type: "pieces"
-      path: ""
-    values:
-      layout: "product"
-      class: "product"
-  -
-    scope:
-      path: "_pages/akoya.html"
+      path: "_landingpages/akoya.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/akoya/"
   -
     scope:
-      path: "_pages/classic-assael.html"
+      path: "_landingpages/classic-assael.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/classic-assael/"
   -
     scope:
-      path: "_pages/angela-cummings.html"
+      path: "_landingpages/angela-cummings.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/angela-cummings/"
   -
     scope:
-      path: "_pages/bracelets.html"
+      path: "_landingpages/bracelets.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/categories/bracelets/"
   -
     scope:
-      path: "_pages/brooches.html"
+      path: "_landingpages/brooches.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/categories/brooches/"
   -
     scope:
-      path: "_pages/contact.html"
+      path: "_landingpages/contact.html"
     values:
       layout: "default"
       class: "contact"
       permalink: "/contact/"
   -
     scope:
-      path: "_pages/couture.html"
+      path: "_landingpages/couture.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/couture/"
   -
     scope:
-      path: "_pages/earrings.html"
+      path: "_landingpages/earrings.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/categories/earrings/"
   -
     scope:
-      path: "_pages/essentials.html"
+      path: "_landingpages/essentials.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/essentials/"
   -
     scope:
-      path: "_pages/julie-parker-endangered-species.html"
+      path: "_landingpages/julie-parker-endangered-species.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/julie-parker-endangered-species/"
   -
     scope:
-      path: "_pages/legacy.html"
+      path: "_landingpages/legacy.html"
     values:
       layout: "default"
       class: "legacy"
       permalink: "/legacy/"
   -
     scope:
-      path: "_pages/necklaces.html"
+      path: "_landingpages/necklaces.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/categories/necklaces/"
   -
     scope:
-      path: "_pages/reho-concepts-for-assael.html"
+      path: "_landingpages/reho-concepts-for-assael.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/collections/reho-concepts-for-assael/"
   -
     scope:
-      path: "_pages/retailers.html"
+      path: "_landingpages/retailers.html"
     values:
       layout: "default"
       class: "retailers"
       permalink: "/retailers/"
   -
     scope:
-      path: "_pages/rings.html"
+      path: "_landingpages/rings.html"
     values:
       layout: "default"
       class: "collection"
       permalink: "/categories/rings/"
   -
     scope:
-      path: "_pages/spotlight.html"
+      path: "_landingpages/spotlight.html"
     values:
       layout: "default"
       class: "spotlight"

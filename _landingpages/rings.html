@@ -1,17 +1,17 @@
 ---
-title: Couture
+title: Rings
 overview_markdown: |
-  When incredible craftsmanship, exceptional design sensibility and the finest gemstones meet, the result is nothing short of breathtaking. Assael Couture pushes the boundaries of established fine jewelry design with audacious and imaginative silhouettes and color palettes.
-order: 4
+  Assael rings are designed around a single, lustrous pearl in dramatic, dazzling settings. Spectacularly chic!
+order: 1
 _hide_content: true
 ---
-{% assign items = site.pieces | where:"category", "Couture" | sort:"order" %}
+{% assign items = site.documents | where_exp: "item", "item.tags contains 'rings'" | sort:"order" %}
 
 <main>
 
 <section class="headline">
   <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
+    <p class="title">{{page.title}}</p>
     <hr>
     <p>{{ page.overview_markdown|markdownify }}</p>
   </div>

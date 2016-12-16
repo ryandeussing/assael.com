@@ -1,17 +1,17 @@
 ---
-title: Brooches
+title: Essentials
 overview_markdown: |
-  Assael brooches feature classic and whimsical designs with stunning rare pearls as the centerpiece. Truly elegant and timeless, the perfect brooch makes a unique style statement.
-order: 1
+  Everyday jewels need not be ordinary! Assael Essentials are designed to become an element of signature style, rather than just being reserved for special occasions. Easily dressed up or down, Essentials is all about pearls for the 21st century.
+order: 2
 _hide_content: true
 ---
-{% assign items = site.pieces | where_exp: "item", "item.tags contains 'brooches'" | sort:"order" %}
+{% assign items = site.essentials | sort:"order" %}
 
 <main>
 
 <section class="headline">
   <div class="inner center intro">
-    <p class="title">{{page.title}}</p>
+    <p class="title">{{page.title}} Collection</p>
     <hr>
     <p>{{ page.overview_markdown|markdownify }}</p>
   </div>
