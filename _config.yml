@@ -22,7 +22,7 @@ kramdown:
 
 # Include static pages.
 include:
-  - _pages
+ - _pages
 
 # Blog
 # paginate: 2
@@ -48,7 +48,7 @@ collections:
 defaults:
   -
     scope:
-      path: "_pages/index.html"
+      path: "_pages/home.html"
     values:
       layout: "default"
       class: "home"
