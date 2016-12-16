@@ -40,6 +40,7 @@ exclude: ["_assets",
 collections:
   pieces:
     output: true
+    _hide_content: true
     permalink: /pieces/:path/
   _pages:
     output: true
