@@ -54,6 +54,7 @@ defaults:
       title: "Home"
       layout: "default"
       class: "home"
+      _hide_content: true
       permalink: "/"
   -
     scope:
