@@ -100,7 +100,7 @@ defaults:
   #     class: "product"
   -
     scope:
-      path: "_landingpages/akoya.html"
+      path: "akoya.html"
     values:
       layout: "default"
       class: "collection"
