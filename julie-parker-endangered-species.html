@@ -1,5 +1,6 @@
 ---
 title: Julie Parker Endangered Species
+collection: julie-parker
 overview_markdown: |
   Julie Parker is a jewelry designer who has worked for esteemed brands such as Hamilton & Inches, Asprey, Elizabeth Gage, Theo Fennell, and Hennell of Bond Street. Her collection for Assael depicts some of the world’s most endangered animal species, and each design may be worn as a pendant or admired as an objet d’art. Incredibly detailed and captivating, the collection includes animals cast in 18K gold, as well as a limited edition series of 5 pieces for each species, set with diamonds and signed & numbered.
 
@@ -7,33 +8,3 @@ overview_markdown: |
 order: 2
 _hide_content: true
 ---
-{% assign items = site.julie-parker | sort:"order" %}
-<main>
-
-<section class="headline">
-  <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
-    <hr>
-    <p>{{ page.overview_markdown|markdownify }}</p>
-  </div>
-</section>
-
-<section class="collection">
-    <div class="inner">
-      {% for item in items %}
-        <div class="product">
-          {% if item.images[0] %}
-            <a href="{{ item.url }}">
-              <img src="/assets/img/trans.gif" data-src="{{ item.images[0] }}" alt="{{ item.title }}" class="lazyload">
-            </a>
-          {% endif %}
-          <div class="title-wrapper">
-            <p class="title">{{ item.title }}</p>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-
-</section>
-
-</main>

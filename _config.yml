@@ -41,38 +41,31 @@ collections:
   akoya:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /akoya/:path/
+    permalink: /collections/akoya/:path/
   angela-cummings:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /angela-cummings/:path/
+    permalink: /collections/angela-cummings/:path/
   classic-assael:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /classic-assael/:path/
+    permalink: /collections/classic-assael/:path/
   couture:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /couture/:path/
+    permalink: /collections/couture/:path/
   essentials:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /essentials/:path/
+    permalink: /collections/essentials/:path/
   julie-parker:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /julie-parker-endangered-species/:path/
+    permalink: /collections/julie-parker-endangered-species/:path/
   reho-concepts:
     output: true
     merge: true
-    _hide_content: true
-    permalink: /reho-concepts-for-assael/:path/
+    permalink: /collections/reho-concepts-for-assael/:path/
   # pieces:
   #   output: true
   #   _hide_content: true
@@ -84,128 +77,170 @@ collections:
 defaults:
   -
     scope:
-      path: "_landingpages/home.html"
+      path: "home.html"
     values:
       title: "Home"
       layout: "default"
       class: "home"
       _hide_content: true
       permalink: "/"
-  # -
-  #   scope:
-  #     type: "pieces"
-  #     path: ""
-  #   values:
-  #     layout: "product"
-  #     class: "product"
   -
     scope:
       path: "akoya.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/collections/akoya/"
   -
     scope:
-      path: "_landingpages/classic-assael.html"
+      path: ""
+      type: "akoya"
     values:
-      layout: "default"
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "classic-assael.html"
+    values:
+      layout: "collection"
       class: "collection"
       permalink: "/collections/classic-assael/"
   -
     scope:
-      path: "_landingpages/angela-cummings.html"
+      path: ""
+      type: "classic-assael"
     values:
-      layout: "default"
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "angela-cummings.html"
+    values:
+      layout: "collection"
       class: "collection"
       permalink: "/collections/angela-cummings/"
   -
     scope:
-      path: "_landingpages/bracelets.html"
+      path: ""
+      type: "angela-cummings"
     values:
-      layout: "default"
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "bracelets.html"
+    values:
+      layout: "collection"
       class: "collection"
       permalink: "/categories/bracelets/"
   -
     scope:
-      path: "_landingpages/brooches.html"
+      path: "brooches.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/categories/brooches/"
   -
     scope:
-      path: "_landingpages/contact.html"
+      path: "contact.html"
     values:
       layout: "default"
       class: "contact"
       permalink: "/contact/"
   -
     scope:
-      path: "_landingpages/couture.html"
+      path: "couture.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/collections/couture/"
   -
     scope:
-      path: "_landingpages/earrings.html"
+      path: ""
+      type: "couture"
     values:
-      layout: "default"
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "earrings.html"
+    values:
+      layout: "collection"
       class: "collection"
       permalink: "/categories/earrings/"
   -
     scope:
-      path: "_landingpages/essentials.html"
+      path: "essentials.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/collections/essentials/"
   -
     scope:
-      path: "_landingpages/julie-parker-endangered-species.html"
+      path: ""
+      type: "essentals"
     values:
-      layout: "default"
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "julie-parker-endangered-species.html"
+    values:
+      layout: "collection"
       class: "collection"
       permalink: "/collections/julie-parker-endangered-species/"
   -
     scope:
-      path: "_landingpages/legacy.html"
+      path: ""
+      type: "julie-parker"
+    values:
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "legacy.html"
     values:
       layout: "default"
       class: "legacy"
       permalink: "/legacy/"
   -
     scope:
-      path: "_landingpages/necklaces.html"
+      path: "necklaces.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/categories/necklaces/"
   -
     scope:
-      path: "_landingpages/reho-concepts-for-assael.html"
+      path: "reho-concepts-for-assael.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/collections/reho-concepts-for-assael/"
   -
     scope:
-      path: "_landingpages/retailers.html"
+      path: ""
+      type: "reho-concepts"
+    values:
+      layout: "product"
+      class: "product"
+  -
+    scope:
+      path: "retailers.html"
     values:
       layout: "default"
       class: "retailers"
       permalink: "/retailers/"
   -
     scope:
-      path: "_landingpages/rings.html"
+      path: "rings.html"
     values:
-      layout: "default"
+      layout: "collection"
       class: "collection"
       permalink: "/categories/rings/"
   -
     scope:
-      path: "_landingpages/spotlight.html"
+      path: "spotlight.html"
     values:
       layout: "default"
       class: "spotlight"

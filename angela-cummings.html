@@ -1,5 +1,6 @@
 ---
 title: Angela Cummings
+collection: angela-cummings
 overview_markdown: |
   Recognized as one of the foremost fine jewelry designers of our time, Angela Cummings is known for her passion for nature and the three-dimensional art of sculpture. Born in Austria, Ms. Cummings studied at the Accademia di Belle Arti and received a degree as a gemologist, goldsmith and designer from Staaliche Zeichenakademie in Hanau, Germany. After a 17-year partnership with Tiffany & Co., she established her own design company and a presence in some of the most exclusive retail outlets in the world, most notably her eponymous shops at Bergdorf Goodman and Neiman Marcus.
 
@@ -7,33 +8,3 @@ overview_markdown: |
 order: 1
 _hide_content: true
 ---
-{% assign items = site.angela-cummings | sort:"order" %}
-<main>
-
-<section class="headline">
-  <div class="inner center intro">
-    <p class="title">{{page.title}} Collection</p>
-    <hr>
-    <p>{{ page.overview_markdown_markdownify }}</p>
-  </div>
-</section>
-
-<section class="collection">
-    <div class="inner">
-      {% for item in items %}
-        <div class="product">
-          {% if item.images[0] %}
-            <a href="{{ item.url }}">
-              <img src="/assets/img/trans.gif" data-src="{{ item.images[0] }}" alt="{{ item.title }}" class="lazyload">
-            </a>
-          {% endif %}
-          <div class="title-wrapper">
-            <p class="title">{{ item.title }}</p>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-
-</section>
-
-</main>
