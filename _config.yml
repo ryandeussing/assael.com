@@ -40,31 +40,31 @@ exclude: ["_assets",
 collections:
   akoya:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/akoya/:path/
   angela-cummings:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/angela-cummings/:path/
   classic-assael:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/classic-assael/:path/
   couture:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/couture/:path/
   essentials:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/essentials/:path/
   julie-parker:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/julie-parker-endangered-species/:path/
   reho-concepts:
     output: true
-    merge: true
+    _hide_content: true
     permalink: /collections/reho-concepts-for-assael/:path/
   # pieces:
   #   output: true
