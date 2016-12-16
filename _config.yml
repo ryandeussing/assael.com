@@ -178,34 +178,34 @@ defaults:
 # Gems
 gems:
   - jekyll-sitemap
-  - jekyll-picture-tag
+  # - jekyll-picture-tag
   # - jekyll-paginate
   # jemoji
 
 # Picture element presets
-picture:
-  source: "assets/img"
-  output: "assets/processed-img"
-  markup: "picture"
-  presets:
-    collection:
-      attr:
-        itemprop: "image"
-      ppi: [1, 1.5]
-      source_400:
-        media: "(min-width: 400px)"
-        width: "579"
-      source_default:
-        width: "273"
-    spotlight:
-      attr:
-        itemprop: "image"
-      ppi: [1, 1.5]
-      source_1025:
-        media: "(min-width: 1024px)"
-        width: "949"
-      source_668:
-        media: "(min-width: 668px)"
-        width: "675"
-      source_default:
-        width: "331"
+# picture:
+#   source: "uploads/"
+#   output: "uploads/processed-img"
+#   markup: "picture"
+#   presets:
+#     collection:
+#       attr:
+#         itemprop: "image"
+#       ppi: [1, 1.5]
+#       source_400:
+#         media: "(min-width: 400px)"
+#         width: "579"
+#       source_default:
+#         width: "273"
+#     spotlight:
+#       attr:
+#         itemprop: "image"
+#       ppi: [1, 1.5]
+#       source_1025:
+#         media: "(min-width: 1024px)"
+#         width: "949"
+#       source_668:
+#         media: "(min-width: 668px)"
+#         width: "675"
+#       source_default:
+#         width: "331"

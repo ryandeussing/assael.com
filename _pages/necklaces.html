@@ -24,7 +24,7 @@ order: 1
         <div class="product">
           {% if item.images[0] %}
             <a href="{{ item.url }}">
-              {% picture collection {{ item.images[0] }} alt="{{ item.title }}" class="lazyload" %}
+              <img src="{{ item.images[0] }}" alt="{{ item.title }}" class="lazyload">
             </a>
           {% endif %}
           <div class="title-wrapper">

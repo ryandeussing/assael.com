@@ -12,7 +12,7 @@ title: Spotlight on Assael
   <section class="text">
     <div class="inner">
       {% if post.featured_image %}
-        {% picture spotlight {{ post.featured_image }} alt="{{ post.title }}" class="featured-image lazyload" %}
+        <img src="{{ post.featured_image }}" alt="{{ post.title }}" class="featured-image lazyload">
       {% endif %}
 
       {% if post.summary_markdown %}
