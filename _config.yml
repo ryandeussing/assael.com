@@ -50,6 +50,7 @@ defaults:
     scope:
       path: "_pages/home.html"
     values:
+      title: "Home"
       layout: "default"
       class: "home"
       permalink: "/"
