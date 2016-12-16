@@ -82,8 +82,8 @@ defaults:
       title: "Home"
       layout: "default"
       class: "home"
-      _hide_content: true
       permalink: "/"
+      _hide_content: true
   -
     scope:
       path: "akoya.html"
@@ -91,6 +91,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/akoya/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -105,6 +106,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/classic-assael/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -119,6 +121,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/angela-cummings/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -133,6 +136,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/categories/bracelets/"
+      _hide_content: true
   -
     scope:
       path: "brooches.html"
@@ -140,6 +144,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/categories/brooches/"
+      _hide_content: true
   -
     scope:
       path: "contact.html"
@@ -154,6 +159,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/couture/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -168,6 +174,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/categories/earrings/"
+      _hide_content: true
   -
     scope:
       path: "essentials.html"
@@ -175,6 +182,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/essentials/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -189,6 +197,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/julie-parker-endangered-species/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -203,6 +212,7 @@ defaults:
       layout: "default"
       class: "legacy"
       permalink: "/legacy/"
+      _hide_content: true
   -
     scope:
       path: "necklaces.html"
@@ -210,6 +220,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/categories/necklaces/"
+      _hide_content: true
   -
     scope:
       path: "reho-concepts-for-assael.html"
@@ -217,6 +228,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/collections/reho-concepts-for-assael/"
+      _hide_content: true
   -
     scope:
       path: ""
@@ -231,6 +243,7 @@ defaults:
       layout: "default"
       class: "retailers"
       permalink: "/retailers/"
+      _hide_content: true
   -
     scope:
       path: "rings.html"
@@ -238,6 +251,7 @@ defaults:
       layout: "collection"
       class: "collection"
       permalink: "/categories/rings/"
+      _hide_content: true
   -
     scope:
       path: "spotlight.html"
@@ -245,6 +259,7 @@ defaults:
       layout: "default"
       class: "spotlight"
       permalink: "/spotlight/"
+      _hide_content: true
 
 # Gems
 gems:
