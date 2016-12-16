@@ -14,7 +14,7 @@ pinterest_username: assael0106
 youtube_channel: https://www.youtube.com/channel/UC3e9q4qYcSJuGjHLh9ydyyA
 
 # Languages and syntax highlighting
-markdown: kramdownp
+markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
