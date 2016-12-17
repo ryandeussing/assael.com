@@ -2,7 +2,7 @@
 layout: "default"
 ---
 {% assign filter = page.title | slugify %}
-{% assign items = site.documents | where_exp: "item", "item.tags contains filter" %}
+{% assign items = site.documents | where_exp: "item", "item.tags contains filter" | sort:"order" %}
 
 <main>
 <section class="headline">
