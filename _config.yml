@@ -200,12 +200,11 @@ defaults:
       class: "product"
   -
     scope:
-      path: "legacy.md"
+      path: "legacy.html"
     values:
       layout: "default"
       class: "legacy"
       permalink: "/legacy/"
-      _hide_content: true
   -
     scope:
       path: "necklaces.md"
