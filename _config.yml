@@ -177,10 +177,10 @@ defaults:
       class: "product"
   -
     scope:
-      path: "home.html"
+      path: "home.md"
     values:
       title: "Home"
-      layout: "default"
+      layout: "home"
       class: "home"
       permalink: "/"
       _hide_content: true
