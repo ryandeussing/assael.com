@@ -77,15 +77,6 @@ collections:
 defaults:
   -
     scope:
-      path: "home.html"
-    values:
-      title: "Home"
-      layout: "default"
-      class: "home"
-      permalink: "/"
-      _hide_content: true
-  -
-    scope:
       path: "akoya.md"
     values:
       layout: "collection"
@@ -94,23 +85,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "akoya"
-    values:
-      layout: "product"
-      class: "product"
-  -
-    scope:
-      path: "classic-assael.md"
-    values:
-      layout: "collection"
-      class: "collection"
-      permalink: "/collections/classic-assael/"
-      _hide_content: true
-  -
-    scope:
-      path: ""
-      type: "classic-assael"
+      collection: "akoya"
     values:
       layout: "product"
       class: "product"
@@ -124,8 +99,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "angela-cummings"
+      collection: "angela-cummings"
     values:
       layout: "product"
       class: "product"
@@ -147,6 +121,19 @@ defaults:
       _hide_content: true
   -
     scope:
+      path: "classic-assael.md"
+    values:
+      layout: "collection"
+      class: "collection"
+      permalink: "/collections/classic-assael/"
+  -
+    scope:
+      collection: "classic-assael"
+    values:
+      layout: "product"
+      class: "product"
+  -
+    scope:
       path: "contact.md"
     values:
       layout: "default"
@@ -162,8 +149,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "couture"
+      collection: "couture"
     values:
       layout: "product"
       class: "product"
@@ -185,11 +171,19 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "essentals"
+      collection: "essentials"
     values:
       layout: "product"
       class: "product"
+  -
+    scope:
+      path: "home.html"
+    values:
+      title: "Home"
+      layout: "default"
+      class: "home"
+      permalink: "/"
+      _hide_content: true
   -
     scope:
       path: "julie-parker-endangered-species.md"
@@ -200,8 +194,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "julie-parker"
+      collection: "julie-parker"
     values:
       layout: "product"
       class: "product"
@@ -231,8 +224,7 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: ""
-      type: "reho-concepts"
+      collection: "reho-concepts"
     values:
       layout: "product"
       class: "product"

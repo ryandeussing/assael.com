@@ -1,7 +1,7 @@
 ---
 title: Reho Concepts for Assael
 _hide_content: true
-collection: reo-concepts
+collection: reho-concepts
 overview_markdown: |
   Assael and Reho Concept were initially acquainted at the legendary Basel Jewelry Fair in Switzerland. Enchanted with the inventiveness and unique design aesthetic of Reho Concept’s line, Assael was inspired to collaborate with this highly regarded Italian firm.
 
