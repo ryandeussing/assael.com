@@ -107,7 +107,7 @@ defaults:
     scope:
       path: "bracelets.md"
     values:
-      layout: "collection"
+      layout: "category"
       class: "collection"
       permalink: "/categories/bracelets/"
       _hide_content: true
@@ -115,7 +115,7 @@ defaults:
     scope:
       path: "brooches.md"
     values:
-      layout: "collection"
+      layout: "category"
       class: "collection"
       permalink: "/categories/brooches/"
       _hide_content: true
@@ -157,7 +157,7 @@ defaults:
     scope:
       path: "earrings.md"
     values:
-      layout: "collection"
+      layout: "category"
       class: "collection"
       permalink: "/categories/earrings/"
       _hide_content: true
@@ -210,7 +210,7 @@ defaults:
     scope:
       path: "necklaces.md"
     values:
-      layout: "collection"
+      layout: "category"
       class: "collection"
       permalink: "/categories/necklaces/"
       _hide_content: true
@@ -240,7 +240,7 @@ defaults:
     scope:
       path: "rings.md"
     values:
-      layout: "collection"
+      layout: "category"
       class: "collection"
       permalink: "/categories/rings/"
       _hide_content: true
