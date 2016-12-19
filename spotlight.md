@@ -1,9 +1,5 @@
 ---
 title: Spotlight on Assael
-layout: "default"
-class: "spotlight"
-permalink: "/spotlight/"
-_hide_content: true
 ---
 {% for post in site.posts %}
   <section class="headline">

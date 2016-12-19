@@ -244,14 +244,14 @@ defaults:
       class: "collection"
       permalink: "/categories/rings/"
       _hide_content: true
-  # -
-  #   scope:
-  #     path: "/spotlight/spotlight.md"
-  #   values:
-  #     layout: "default"
-  #     class: "spotlight"
-  #     permalink: "/spotlight/"
-  #     _hide_content: true
+  -
+    scope:
+      path: "spotlight.md"
+    values:
+      layout: "default"
+      class: "spotlight"
+      permalink: "/spotlight/"
+      _hide_content: true
 
 # Gems
 gems:
