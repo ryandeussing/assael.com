@@ -1,7 +1,7 @@
 ---
 layout: "default"
 ---
-{% assign items = site.[page.collection] %}
+{% assign items = site.[page.collection] | sort:"order" %}
 
 <main>
   <section class="headline">
