@@ -6,7 +6,7 @@ specs: |
   Pair of 19.5 x 16.1 x 16.1mm Baroque South Sea Cultured Pearls with 2.42 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
   - /uploads/angela-cummings-for-assael-coral-branch-earrings.png
-category: Angela Cummings
+_category:
 order: 2
 tags:
   - earrings

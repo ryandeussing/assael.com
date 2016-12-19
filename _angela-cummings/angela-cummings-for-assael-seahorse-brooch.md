@@ -6,7 +6,7 @@ specs: |
   24.6 x 19.9 x 19.6mm Baroque South Sea Cultured Pearl with 1.89 carats of White Diamonds, set in Platinum and 18K Yellow Gold.
 images:
   - /uploads/angela-cummings-for-assael-seahorse-brooch.png
-category: Angela Cummings
+_category:
 order: 15
 tags:
   - brooches

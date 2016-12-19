@@ -6,7 +6,6 @@ specs: |
   Assael earrings range in size from 6.5mm to 9.5mm. All earrings are set in 18k yellow or white gold.
 images:
   - /uploads/assael-akoya-pearl-earrings.png
-category: Akoya
 order: 14
 tags:
 ---

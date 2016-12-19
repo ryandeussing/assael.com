@@ -5,7 +5,7 @@ description: |
 specs: |
 images:
   - /uploads/assael-abacus-and-xo-bangles.jpg
-category: Essentials
+_category:
 order: 7
 tags:
   - bracelets

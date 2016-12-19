@@ -6,7 +6,7 @@ specs: |
   Round South Sea Cultured Pearl Opera Length Necklace, 50 Pearls, 15.0 to 18.5mm.
 images:
   - /uploads/assael-round-south-sea-pearl-opera-length-necklace.jpg
-category: Classic Assael
+_category:
 order: 1
 tags:
   - necklaces

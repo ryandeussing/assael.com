@@ -6,7 +6,7 @@ specs: |
   16.0 - 20.0mm South Sea Cultured Pearls with 18K White Gold and Pave Diamond Clasp.
 images:
   - /uploads/assael-south-sea-cultured-pearl-necklace-16-20mm.png
-category: Classic Assael
+_category:
 order: 26
 tags:
   - necklaces

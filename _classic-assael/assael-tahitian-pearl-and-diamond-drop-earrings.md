@@ -6,7 +6,7 @@ specs: |
   13.1mm Tahitian Pearls and 13.9 - 16.1 mm Tahitian Pearl Drops with 2.28 carats of Diamonds set in 18K White Gold.
 images:
   - /uploads/assael-tahitian-pearl-and-diamond-drop-earrings.png
-category: Classic Assael
+_category:
 order: 12
 tags:
   - earrings

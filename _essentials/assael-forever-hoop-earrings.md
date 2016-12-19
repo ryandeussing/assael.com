@@ -6,7 +6,7 @@ specs: |
   Akoya Cultured Pearls, 4.0 - 4.5mm, set in 18K Yellow Gold. With or without Pave Diamonds. Exclusively sold at Neiman Marcus.
 images:
   - /uploads/assael-forever-hoop-earrings.jpg
-category: Essentials
+_category:
 order: 4
 tags:
   - earrings

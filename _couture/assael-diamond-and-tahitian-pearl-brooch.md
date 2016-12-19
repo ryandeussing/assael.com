@@ -5,7 +5,7 @@ specs: |
   Tahitian Natural Color Cultured Button Pearl, 15.4 - 18.7mm, with 182 Diamonds, 19.56 ctw. Hand set in Platinum.
 images:
   - /uploads/assael-diamond-and-tahitian-pearl-brooch.jpg
-category: Couture
+_category:
 order: 5
 tags:
   - brooches

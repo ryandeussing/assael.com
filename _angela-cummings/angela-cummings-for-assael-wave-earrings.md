@@ -6,7 +6,7 @@ specs: |
   Pair of 12.5mm Tahitian Cultured Pearls with 2.88 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
   - /uploads/angela-cummings-for-assael-wave-earrings.png
-category: Angela Cummings
+_category:
 order: 21
 tags:
   - earrings

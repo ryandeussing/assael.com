@@ -6,7 +6,7 @@ specs: |
   8.5 - 9mm Akoya Cultured Pearls set in 18K Yellow Gold
 images:
   - /uploads/assael-abacus-i-cuff.png
-category: Essentials
+_category:
 order: 6
 tags:
   - bracelets

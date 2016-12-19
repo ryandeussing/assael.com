@@ -6,7 +6,6 @@ specs: |
   Akoya Pearls Stud Earrings pictured, 8.0 - 8.5mm with 18k White Gold posts. Also available in 18K Yellow Gold, with pearl sizes ranging from 6.5mm - 10.0mm.
 images:
   - /uploads/assael-akoya-stud-earrings-white-gold.jpg
-category: Akoya
 order: 11
 tags:
 ---

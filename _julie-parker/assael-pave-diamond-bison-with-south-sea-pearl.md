@@ -6,7 +6,7 @@ specs: |
   17.8 x 18.5mm South Sea Cultured Pearl Button with 5.27 carats of White Diamonds, set in 18K White Gold.
 images:
   - /uploads/assael-pave-diamond-bison-with-south-sea-pearl.png
-category: Julie Parker Endangered Species
+_category:
 order: 8
 tags:
   - necklaces

@@ -6,7 +6,7 @@ specs: |
   11.5 - 12.8mm Tahitian Natural Color Cultured Pearls, 78 carats of Moonstones and 32.88 carats of Rondelle Ruby beads, set in 18K Yellow Gold
 images:
   - /uploads/assael-moonstone-ruby-and-tahitian-pearl-necklace.png
-category: Essentials
+_category:
 order: 9
 tags:
   - necklaces

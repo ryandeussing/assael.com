@@ -6,7 +6,7 @@ specs: |
   12.9mm x 14.1mm South Sea Cultured Pearl Drop with 0.05 carats of White Diamonds, set in 18K Yellow Gold.
 images:
   - /uploads/assael-elephant-medallion-with-south-sea-pearl-drop.png
-category: Julie Parker Endangered Species
+_category:
 order: 3
 tags:
   - necklaces

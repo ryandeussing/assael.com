@@ -6,7 +6,7 @@ specs: |
   Double Row Necklace is made up of 101 Coral Beads, ranging from 8.0 - 16.4mm. Set with an 18K Yellow Gold and Diamond Clasp, 0.29 ctw. The length is 22"
 images:
   - /uploads/assael-double-row-angel-skin-coral-necklace.jpg
-category: Classic Assael
+_category:
 order: 5
 tags:
   - necklaces

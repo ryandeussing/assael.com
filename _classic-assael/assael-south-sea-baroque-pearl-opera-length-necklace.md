@@ -6,7 +6,7 @@ specs: |
   14.0 - 23.5mm South Sea Cultured Baroque Pearls with 18K White Gold and Pave Diamond Clasp, 34".
 images:
   - /uploads/assael-south-sea-baroque-pearl-opera-length-necklace.jpg
-category: Classic Assael
+_category:
 order: 7
 tags:
   - necklaces

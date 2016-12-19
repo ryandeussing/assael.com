@@ -8,7 +8,7 @@ specs: |
   NECKLACE: 14.0 - 17.5mm South Sea Cultured Pearls with Pave Diamond Clasp.
 images:
   - /uploads/assael-classic-south-sea-pearl-earrings-and-necklace.png
-category: Classic Assael
+_category:
 order: 22
 tags:
   - necklaces

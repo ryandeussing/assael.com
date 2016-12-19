@@ -6,7 +6,7 @@ specs: |
   14.0mm South Sea Cultured Pearls with 5.46 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
   - /uploads/angela-cummings-for-assael-diamond-dangling-swirl-earrings.png
-category: Angela Cummings
+_category:
 order: 6
 tags:
   - earrings

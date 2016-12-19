@@ -6,7 +6,7 @@ specs: |
   8.75 - 6mm Akoya Cultured Pearls, set in 18K Yellow Gold.
 images:
   - /uploads/angela-cummings-for-assael-thorn-sprig-necklace.png
-category: Angela Cummings
+_category:
 order: 3
 tags:
   - necklaces

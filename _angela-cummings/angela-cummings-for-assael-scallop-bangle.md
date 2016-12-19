@@ -6,7 +6,7 @@ specs: |
   14 - 12.2mm South Sea Cultured Pearl Drops, set in 18K Yellow Gold.
 images:
   - /uploads/angela-cummings-for-assael-scallop-bangle.png
-category: Angela Cummings
+_category:
 order: 19
 tags:
   - bracelets

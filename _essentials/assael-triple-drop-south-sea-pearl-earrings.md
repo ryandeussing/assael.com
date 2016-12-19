@@ -6,7 +6,7 @@ specs: |
   6 South Sea Cultured Pearls, 10.4 - 12.1mm. 18K Yellow Gold with Diamonds, .48 ctw.
 images:
   - /uploads/assael-triple-drop-south-sea-pearl-earrings.jpg
-category: Essentials
+_category:
 order: 8
 tags:
   - earrings

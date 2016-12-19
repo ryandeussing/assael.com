@@ -5,7 +5,7 @@ description: |
 specs: |
 images:
   - /uploads/assael-south-sea-pearl-chinoiserie-earrings.jpg
-category: Couture
+_category:
 order: 7
 tags:
   - earrings

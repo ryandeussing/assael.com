@@ -6,7 +6,7 @@ specs: |
   11.1mm x 14.6mm Golden South Sea Cultured Pearl Drop with 0.03 carats of Brown Diamonds, set in 18K Yellow Gold.
 images:
   - /uploads/assael-pave-diamond-orang-utan-with-golden-south-sea-pearl.png
-category: Julie Parker Endangered Species
+_category:
 order: 7
 tags:
   - necklaces

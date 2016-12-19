@@ -6,7 +6,7 @@ specs: |
   6.3 x 19.1 x 22.1mm South Sea Cultured Baroque Pearl with 9.90 carats of Diamonds, set in 18K White Gold.
 images:
   - /uploads/assael-pave-diamond-elephant-splashing-water-with-south-sea-baroque-pearl.png
-category: Julie Parker Endangered Species
+_category:
 order: 2
 tags:
   - necklaces

@@ -6,7 +6,6 @@ specs: |
   Akoya Cultured Pearls, 8.0 - 8.5mm, set in 18K Yellow Gold. Also available in White Gold.
 images:
   - /uploads/assael-akoya-kate-earrings-yellow-gold.jpg
-category: Akoya
 order: 8
 tags:
 ---

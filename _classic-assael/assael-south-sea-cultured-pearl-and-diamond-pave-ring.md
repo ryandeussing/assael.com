@@ -6,7 +6,7 @@ specs: |
   South Sea Cultured Pearl Ring, 15 - 15.4mm, set in 18K White gold, with 432 Pave set Diamonds, 2.99 ctw.
 images:
   - /uploads/assael-south-sea-cultured-pearl-and-diamond-pave-ring.jpg
-category: Classic Assael
+_category:
 order: 15
 tags:
   - rings

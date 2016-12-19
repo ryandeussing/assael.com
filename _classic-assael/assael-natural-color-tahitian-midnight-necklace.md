@@ -5,7 +5,7 @@ specs: |
   Tahitian Natural Color Cultured Pearl 5 Row Necklace, 242 Pearls, 8.9 - 14.3mm. 18K White Gold Adjustable Clasp.
 images:
   - /uploads/assael-natural-color-tahitian-midnight-necklace.jpg
-category: Classic Assael
+_category:
 order: 11
 tags:
   - necklaces

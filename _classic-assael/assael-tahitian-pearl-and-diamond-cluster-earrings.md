@@ -6,7 +6,7 @@ specs: |
   14.0 - 14.7mm Tahitian Natural Color Cultured Pearl Buttons with 2.60 carats of Diamonds set in 18K White Gold.
 images:
   - /uploads/assael-tahitian-pearl-and-diamond-cluster-earrings.png
-category: Classic Assael
+_category:
 order: 25
 tags:
   - earrings

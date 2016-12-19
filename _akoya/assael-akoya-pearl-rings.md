@@ -5,7 +5,6 @@ description: |
 specs: |
 images:
   - /uploads/assael-akoya-pearl-rings.png
-category: Akoya
 order: 15
 tags:
 ---

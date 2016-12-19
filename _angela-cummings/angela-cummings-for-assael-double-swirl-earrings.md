@@ -8,7 +8,7 @@ specs: |
   TAHITIAN: 11.0 - 10.9mm Tahitian Natural Color Cultured Pearls with 5.30 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
   - /uploads/angela-cummings-for-assael-double-swirl-earrings.png
-category: Angela Cummings
+_category:
 order: 14
 tags:
   - earrings
