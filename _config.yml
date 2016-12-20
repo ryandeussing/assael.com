@@ -216,6 +216,12 @@ defaults:
       _hide_content: true
   -
     scope:
+      path: ""
+      type: "posts"
+    values:
+      _summary_markdown: For SEO, only visible to search engines
+  -
+    scope:
       path: "reho-concepts-for-assael.md"
     values:
       layout: "collection"
