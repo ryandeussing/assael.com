@@ -8,6 +8,13 @@ description: >
 baseurl: ""
 url: "https://www.assael.com"
 
+categories:
+  - necklaces
+  - earrings
+  - bracelets
+  - brooches
+  - rings
+
 # Professional and social media links
 instagram_username: assaelpearls
 pinterest_username: assael0106
