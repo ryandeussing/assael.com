@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-violetta-yg-pave-earrings.jpg
 order: 4
 categories:
+  - earrings
 ---

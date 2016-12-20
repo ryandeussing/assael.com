@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-pearl-earrings.png
 order: 14
 categories:
+  - earrings
 ---

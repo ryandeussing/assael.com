@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-pearl-necklaces.jpg
 order: 16
 categories:
+  - necklaces
 ---

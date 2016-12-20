@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-kate-earrings-yellow-gold.jpg
 order: 8
 categories:
+  - earrings
 ---

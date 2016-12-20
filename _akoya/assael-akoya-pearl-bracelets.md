@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-pearl-bracelets.png
 order: 13
 categories:
+  - bracelets
 ---

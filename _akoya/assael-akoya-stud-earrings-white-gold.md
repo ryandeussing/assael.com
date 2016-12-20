@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-stud-earrings-white-gold.jpg
 order: 11
 categories:
+  - earrings
 ---

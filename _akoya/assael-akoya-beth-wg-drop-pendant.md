@@ -8,4 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-beth-wg-drop-pendant.jpg
 order: 5
 categories:
+  - necklaces
 ---

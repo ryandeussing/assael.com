@@ -7,4 +7,5 @@ images:
   - image_path: /uploads/assael-akoya-pearl-rings.png
 order: 15
 categories:
+  - rings
 ---
