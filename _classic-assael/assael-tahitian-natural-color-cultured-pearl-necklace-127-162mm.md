@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-tahitian-natural-color-cultured-pearl-necklace-127-162mm.png
 _category:
 order: 14
-tags:
+categories:
   - necklaces
 ---

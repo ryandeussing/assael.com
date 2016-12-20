@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-tropical-luxe-collection-necklace.png
 _category:
 order: 2
-tags:
+categories:
   - necklaces
 ---

@@ -7,5 +7,5 @@ specs: |
 images:
   - image_path: /uploads/assael-akoya-beth-yg-drop-pendant.jpg
 order: 6
-tags:
+categories:
 ---

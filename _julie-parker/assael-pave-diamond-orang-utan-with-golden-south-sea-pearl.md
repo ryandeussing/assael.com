@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-pave-diamond-orang-utan-with-golden-south-sea-pearl.png
 _category:
 order: 7
-tags:
+categories:
   - necklaces
 ---

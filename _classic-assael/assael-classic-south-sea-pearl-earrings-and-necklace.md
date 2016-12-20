@@ -10,7 +10,7 @@ images:
   - image_path: /uploads/assael-classic-south-sea-pearl-earrings-and-necklace.png
 _category:
 order: 22
-tags:
+categories:
   - necklaces
   - earrings
 ---

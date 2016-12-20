@@ -10,7 +10,7 @@ images:
   - image_path: /uploads/assael-cascade-earrings-and-bracelet.jpg
 _category:
 order: 2
-tags:
+categories:
   - bracelets
   - earrings
 ---

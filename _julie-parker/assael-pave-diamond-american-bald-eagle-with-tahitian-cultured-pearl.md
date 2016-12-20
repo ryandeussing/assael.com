@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-pave-diamond-american-bald-eagle-with-tahitian-cultured-pearl.png
 _category:
 order: 4
-tags:
+categories:
   - necklaces
 ---

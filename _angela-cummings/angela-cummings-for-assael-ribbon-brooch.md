@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-ribbon-brooch.png
 _category:
 order: 9
-tags:
+categories:
   - brooches
 ---

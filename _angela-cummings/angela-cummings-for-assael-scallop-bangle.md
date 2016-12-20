@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-bangle.png
 _category:
 order: 19
-tags:
+categories:
   - bracelets
 ---

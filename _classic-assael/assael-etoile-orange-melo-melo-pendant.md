@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-etoile-orange-melo-melo-pendant.jpg
 _category:
 order: 30
-tags:
+categories:
   - necklaces
 ---

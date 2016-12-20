@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-swirl-necklace.png
 _category:
 order: 5
-tags:
+categories:
   - necklaces
 ---

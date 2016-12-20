@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-golden-south-sea-pearl-necklace-122-153mm.png
 _category:
 order: 21
-tags:
+categories:
   - necklaces
 ---

@@ -10,6 +10,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-necklace.png
 _category:
 order: 7
-tags:
+categories:
   - necklaces
 ---

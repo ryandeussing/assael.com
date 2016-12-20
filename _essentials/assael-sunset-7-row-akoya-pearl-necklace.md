@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-sunset-7-row-akoya-pearl-necklace.jpg
 _category:
 order: 1
-tags:
+categories:
   - necklaces
 ---

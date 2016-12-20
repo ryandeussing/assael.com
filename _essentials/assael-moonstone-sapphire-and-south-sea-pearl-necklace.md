@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-moonstone-sapphire-and-south-sea-pearl-necklace.png
 _category:
 order: 10
-tags:
+categories:
   - necklaces
 ---

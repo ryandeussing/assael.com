@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-south-sea-cultured-pearl-ring-with-pave-diamonds.jpg
 _category:
 order: 8
-tags:
+categories:
   - rings
 ---

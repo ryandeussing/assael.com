@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-natural-color-tahitian-three-strand-cultured-pearl-necklace.jpg
 _category:
 order: 9
-tags:
+categories:
   - necklaces
 ---

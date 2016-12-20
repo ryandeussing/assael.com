@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-south-sea-baroque-pearl-panda-bear.png
 _category:
 order: 5
-tags:
+categories:
   - necklaces
 ---

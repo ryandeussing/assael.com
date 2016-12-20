@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-seahorse-brooch.png
 _category:
 order: 15
-tags:
+categories:
   - brooches
 ---

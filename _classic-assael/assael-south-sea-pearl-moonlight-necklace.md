@@ -7,6 +7,6 @@ images:
   - image_path: /uploads/assael-south-sea-pearl-moonlight-necklace.jpg
 _category:
 order: 27
-tags:
+categories:
   - necklaces
 ---

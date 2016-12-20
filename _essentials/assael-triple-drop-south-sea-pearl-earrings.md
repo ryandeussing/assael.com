@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-triple-drop-south-sea-pearl-earrings.jpg
 _category:
 order: 8
-tags:
+categories:
   - earrings
 ---

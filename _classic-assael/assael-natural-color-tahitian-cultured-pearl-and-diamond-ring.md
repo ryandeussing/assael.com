@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-natural-color-tahitian-cultured-pearl-and-diamond-ring.jpg
 _category:
 order: 10
-tags:
+categories:
   - rings
 ---

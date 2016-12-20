@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-coral-necklace.png
 _category:
 order: 1
-tags:
+categories:
   - necklaces
 ---

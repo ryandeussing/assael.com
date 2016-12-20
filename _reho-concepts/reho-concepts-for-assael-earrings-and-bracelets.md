@@ -10,7 +10,7 @@ images:
   - image_path: /uploads/reho-concepts-for-assael-earrings-and-bracelets.jpg
 _category:
 order: 4
-tags:
+categories:
   - bracelets
   - earrings
 ---

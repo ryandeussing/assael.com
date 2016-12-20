@@ -7,5 +7,5 @@ specs: |
 images:
   -
 order:
-tags:
+categories:
 ---

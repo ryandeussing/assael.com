@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-pave-diamond-bison-with-south-sea-pearl.png
 _category:
 order: 8
-tags:
+categories:
   - necklaces
 ---

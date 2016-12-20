@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-double-row-angel-skin-coral-necklace.jpg
 _category:
 order: 5
-tags:
+categories:
   - necklaces
 ---

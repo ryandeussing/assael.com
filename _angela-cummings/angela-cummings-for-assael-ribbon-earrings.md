@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-ribbon-earrings.png
 _category:
 order: 10
-tags:
+categories:
   - earrings
 ---

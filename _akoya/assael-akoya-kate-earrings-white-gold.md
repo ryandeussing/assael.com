@@ -7,5 +7,5 @@ specs: |
 images:
   - image_path: /uploads/assael-akoya-kate-earrings-white-gold.jpg
 order: 7
-tags:
+categories:
 ---

@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-abacus-ii-cuff.jpg
 _category:
 order: 5
-tags:
+categories:
   - bracelets
 ---

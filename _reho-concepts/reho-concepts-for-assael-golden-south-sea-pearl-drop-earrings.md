@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/reho-concepts-for-assael-golden-south-sea-pearl-drop-earrings.png
 _category:
 order: 1
-tags:
+categories:
   - earrings
 ---

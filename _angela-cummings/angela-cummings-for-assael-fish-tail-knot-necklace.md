@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-fish-tail-knot-necklace.png
 _category:
 order: 23
-tags:
+categories:
   - necklaces
 ---

@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/reho-concepts-for-assael-diamond-and-baroque-pearl-drop-earrings.png
 _category:
 order: 3
-tags:
+categories:
   - earrings
 ---

@@ -7,6 +7,6 @@ images:
   - image_path: /uploads/assael-diamond-and-tahitian-pearl-brooch.jpg
 _category:
 order: 5
-tags:
+categories:
   - brooches
 ---

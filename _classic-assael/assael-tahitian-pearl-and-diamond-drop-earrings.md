@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-tahitian-pearl-and-diamond-drop-earrings.png
 _category:
 order: 12
-tags:
+categories:
   - earrings
 ---

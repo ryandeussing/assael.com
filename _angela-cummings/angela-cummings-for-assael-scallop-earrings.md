@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-earrings.png
 _category:
 order: 8
-tags:
+categories:
   - earrings
 ---

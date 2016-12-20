@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-gem-south-sea-pearl-necklace.png
 _category:
 order: 2
-tags:
+categories:
   - necklaces
 ---

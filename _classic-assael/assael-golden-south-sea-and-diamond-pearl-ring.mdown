@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-golden-south-sea-and-diamond-pearl-ring.jpg
 _category:
 order: 23
-tags:
+categories:
   - rings
 ---

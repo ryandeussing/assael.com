@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-tahitian-pearl-and-diamond-cluster-earrings.png
 _category:
 order: 25
-tags:
+categories:
   - earrings
 ---

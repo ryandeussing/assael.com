@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-forever-bangle.jpg
 _category:
 order: 3
-tags:
+categories:
   - bracelets
 ---

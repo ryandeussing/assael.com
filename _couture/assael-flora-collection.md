@@ -16,7 +16,7 @@ images:
   - image_path: /uploads/assael-flora-collection.jpg
 _category:
 order: 3
-tags:
+categories:
   - rings
   - earrings
 ---

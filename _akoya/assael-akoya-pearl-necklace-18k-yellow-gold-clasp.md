@@ -7,5 +7,5 @@ specs: |
 images:
   - image_path: /uploads/assael-akoya-pearl-necklace-18k-yellow-gold-clasp.jpg
 order: 2
-tags:
+categories:
 ---

@@ -8,5 +8,5 @@ images:
   - image_path: /uploads/assael-akoya-pearl-and-diamond-sunset-necklace.jpg
 _category:
 order: 6
-tags:
+categories:
 ---

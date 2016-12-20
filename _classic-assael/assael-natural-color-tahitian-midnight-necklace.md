@@ -7,6 +7,6 @@ images:
   - image_path: /uploads/assael-natural-color-tahitian-midnight-necklace.jpg
 _category:
 order: 11
-tags:
+categories:
   - necklaces
 ---

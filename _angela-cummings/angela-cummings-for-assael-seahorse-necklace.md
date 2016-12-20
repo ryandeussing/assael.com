@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-seahorse-necklace.png
 _category:
 order: 16
-tags:
+categories:
   - necklaces
 ---

@@ -7,6 +7,6 @@ images:
   - image_path: /uploads/assael-south-sea-pearl-chinoiserie-earrings.jpg
 _category:
 order: 7
-tags:
+categories:
   - earrings
 ---

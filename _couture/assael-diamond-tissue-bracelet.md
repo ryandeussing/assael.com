@@ -7,6 +7,6 @@ images:
   - image_path: /uploads/assael-diamond-tissue-bracelet.jpg
 _category:
 order: 6
-tags:
+categories:
   - bracelets
 ---

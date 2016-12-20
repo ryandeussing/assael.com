@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/assael-south-sea-pearl-classic-necklace-160-20mm.png
 _category:
 order: 13
-tags:
+categories:
   - necklaces
 ---

@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-wave-earrings.png
 _category:
 order: 21
-tags:
+categories:
   - earrings
 ---

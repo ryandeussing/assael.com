@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-coral-branch-earrings.png
 _category:
 order: 2
-tags:
+categories:
   - earrings
 ---

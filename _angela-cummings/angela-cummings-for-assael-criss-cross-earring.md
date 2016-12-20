@@ -10,6 +10,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-criss-cross-earring.png
 _category:
 order: 13
-tags:
+categories:
   - earrings
 ---

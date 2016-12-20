@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-necklace.png
 _category:
 order: 20
-tags:
+categories:
   - necklaces
 ---

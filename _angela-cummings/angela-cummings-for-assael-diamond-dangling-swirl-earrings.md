@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-diamond-dangling-swirl-earrings.png
 _category:
 order: 6
-tags:
+categories:
   - earrings
 ---

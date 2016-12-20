@@ -8,6 +8,6 @@ images:
   - image_path: /uploads/angela-cummings-for-assael-wave-ring.jpg
 _category:
 order: 12
-tags:
+categories:
   - rings
 ---
