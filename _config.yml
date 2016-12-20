@@ -90,6 +90,8 @@ defaults:
     values:
       layout: "product"
       class: "product"
+      _comments:
+        images: Product images should be uploaded at exaclty 675px by 848px (or larger, using the same 1.255 aspect ratio)
   -
     scope:
       path: "angela-cummings.md"
@@ -220,7 +222,8 @@ defaults:
       type: "posts"
     values:
       _comments:
-        summary_markdown: For SEO, only visible to search engines
+        summary: For SEO, only visible to search engines
+        featured_image: This image should be at least 1200px wide
   -
     scope:
       path: "reho-concepts-for-assael.md"
