@@ -1,0 +1,12 @@
+.login {
+
+  section.cms {
+    @include breakpoint($m-up){
+      padding-top: 2rem;
+      @include span-columns(4);
+      @include shift(4);
+      text-align: left;
+    }
+  }
+
+}

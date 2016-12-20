@@ -1,0 +1,41 @@
+---
+layout: default
+permalink: /login/
+class: login
+---
+<main>
+    <section class="cms">
+
+<style>
+      .incorrect-login-message {
+        display: none;
+      }
+
+      .has-incorrect-login .incorrect-login-message {
+        display: block;
+      }
+    </style>
+
+    <h2>Log in to the CMS</h2>
+
+
+<form accept-charset="UTF-8" action="https://app.cloudcannon.com/client_editor/27928" method="post">
+    <input name="utf8" type="hidden" value="&#x2713;" />
+    <input name="authenticity_token" type="hidden" value="nShaFa+qmKPSSuH/iEhtgd9A5o5hq8jth3xUB6CL5yM=" />
+
+
+
+     <div class="incorrect-login-message">
+       Incorrect password.
+     </div>
+
+     <label for="password">Password</label>
+     <input id="password" type="password" name="password" autofocus />
+
+     <input type="hidden" name="username" value="user" />
+
+     <input type="submit" value="Log in" />
+   </form>
+
+  </section>
+</main>

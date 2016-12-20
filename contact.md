@@ -14,7 +14,7 @@ _hide_content: true
     <div class="image-wrapper">
       <img src="{{ page.image_path }}" alt="">
     </div>
-    <div class="contact-copy">
+    <div class="editable contact-copy">
       <!-- <img src="{{ page.image_path }}" alt=""> -->
       <p>Thank you for your interest in Assael. We are committed to providing the highest quality of service. </p>
 
