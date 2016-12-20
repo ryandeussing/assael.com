@@ -239,7 +239,6 @@ defaults:
       type: "posts"
     values:
       _comments:
-        summary: For SEO, only visible to search engines
         featured_image: This image should be at least 1200px wide
   -
     scope:

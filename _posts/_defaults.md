@@ -1,6 +1,6 @@
 ---
 title:
 date:
-summary: >
+summary_markdown: >
 featured_image:
 ---
