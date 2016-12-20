@@ -4,7 +4,7 @@ description: |
 specs: |
   18K Yellow and White Gold with 794 Diamonds, 39.25 ctw.
 images:
-  - /uploads/assael-diamond-tissue-bracelet.jpg
+  - image_path: /uploads/assael-diamond-tissue-bracelet.jpg
 _category:
 order: 6
 tags:

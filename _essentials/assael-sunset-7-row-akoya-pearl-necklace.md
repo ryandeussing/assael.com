@@ -5,7 +5,7 @@ description: |
 specs: |
   570 Japanese Akoya Cultured Pearls, 6 - 8 1/2mm. Diamond pave spheres, 3.52 ctw. 18K Yellow Gold Clasp.
 images:
-  - /uploads/assael-sunset-7-row-akoya-pearl-necklace.jpg
+  - image_path: /uploads/assael-sunset-7-row-akoya-pearl-necklace.jpg
 _category:
 order: 1
 tags:

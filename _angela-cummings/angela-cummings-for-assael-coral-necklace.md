@@ -5,7 +5,7 @@ description: |
 specs: |
   21 - 12.5mm Baroque South Sea Cultured Pearls with 5.03 carats of White Diamonds, set in Platinum and 18K White Gold.
 images:
-  - /uploads/angela-cummings-for-assael-coral-necklace.png
+  - image_path: /uploads/angela-cummings-for-assael-coral-necklace.png
 _category:
 order: 1
 tags:

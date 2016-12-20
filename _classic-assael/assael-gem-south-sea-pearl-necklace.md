@@ -5,7 +5,7 @@ description: |
 specs: |
   16.0 - 19.1mm Gem Quality South Sea Cultured Pearls with Pave Diamond Clasp.
 images:
-  - /uploads/assael-gem-south-sea-pearl-necklace.png
+  - image_path: /uploads/assael-gem-south-sea-pearl-necklace.png
 _category:
 order: 2
 tags:

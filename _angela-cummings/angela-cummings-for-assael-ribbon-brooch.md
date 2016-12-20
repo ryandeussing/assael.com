@@ -5,7 +5,7 @@ description: |
 specs: |
   21.6 x 20.0 x 19.9mm South Sea Cultured Baroque Pearl with 2.77 carats of White Diamonds, set in Platinum and 18K Yellow Gold.
 images:
-  - /uploads/angela-cummings-for-assael-ribbon-brooch.png
+  - image_path: /uploads/angela-cummings-for-assael-ribbon-brooch.png
 _category:
 order: 9
 tags:

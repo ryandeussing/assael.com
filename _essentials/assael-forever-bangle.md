@@ -5,7 +5,7 @@ description: |
 specs: |
   Akoya Cultured Pearls, 7.75 - 8.0mm, set in 18K Yellow Gold Hinged Bangle. Exclusive to Neiman Marcus.
 images:
-  - /uploads/assael-forever-bangle.jpg
+  - image_path: /uploads/assael-forever-bangle.jpg
 _category:
 order: 3
 tags:

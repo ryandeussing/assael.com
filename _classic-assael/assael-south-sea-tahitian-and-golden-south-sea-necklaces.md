@@ -9,7 +9,7 @@ specs: |
 
   15.0 - 17.3mm Tahitian Natural Color Cultured Pearl Necklace.
 images:
-  - /uploads/assael-south-sea-tahitian-and-golden-south-sea-necklaces.png
+  - image_path: /uploads/assael-south-sea-tahitian-and-golden-south-sea-necklaces.png
 _category:
 order: 17
 tags:

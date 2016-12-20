@@ -5,7 +5,7 @@ description: |
 specs: |
   17.8 x 18.5mm South Sea Cultured Pearl Button with 5.27 carats of White Diamonds, set in 18K White Gold.
 images:
-  - /uploads/assael-pave-diamond-bison-with-south-sea-pearl.png
+  - image_path: /uploads/assael-pave-diamond-bison-with-south-sea-pearl.png
 _category:
 order: 8
 tags:

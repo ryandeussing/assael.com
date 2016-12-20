@@ -5,7 +5,7 @@ description: |
 specs: |
   11.7mm x 15.9mm Tahitian Natural Color Cultured Pearl with 7.31 carats of White Diamonds, set in 18K White Gold.
 images:
-  - /uploads/assael-pave-diamond-american-bald-eagle-with-tahitian-cultured-pearl.png
+  - image_path: /uploads/assael-pave-diamond-american-bald-eagle-with-tahitian-cultured-pearl.png
 _category:
 order: 4
 tags:

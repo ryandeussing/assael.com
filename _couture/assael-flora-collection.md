@@ -13,7 +13,7 @@ specs: |
 
   PENDANT: 8.20mm Akoya Cultured Pear with 2.92 carats of Purple Sapphires and 0.52 carats of White Diamonds, set in 18K Gold and Purple Titanium.
 images:
-  - /uploads/assael-flora-collection.jpg
+  - image_path: /uploads/assael-flora-collection.jpg
 _category:
 order: 3
 tags:

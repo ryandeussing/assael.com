@@ -7,7 +7,7 @@ specs: |
 
   NECKLACE: 12.0 - 15.5mm Golden South Sea Natural Color Cultured Pearls.
 images:
-  - /uploads/assael-golden-south-sea-natural-color-cultured-pearl-necklace-and-ring.png
+  - image_path: /uploads/assael-golden-south-sea-natural-color-cultured-pearl-necklace-and-ring.png
 _category:
 order: 19
 tags:

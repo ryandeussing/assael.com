@@ -4,7 +4,7 @@ description: |
   Silvery Akoya Pearls are orbited by rows of Diamonds set in White Gold in this series - each style is a lovely statement on its own, and also works beautifully stacked or layered with other rings.
 specs: |
 images:
-  - /uploads/assael-akoya-pearl-rings.png
+  - image_path: /uploads/assael-akoya-pearl-rings.png
 order: 15
 tags:
 ---

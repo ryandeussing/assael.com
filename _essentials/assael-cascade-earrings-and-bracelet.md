@@ -7,7 +7,7 @@ specs: |
 
   The Earrings are made up of 48 Akoya Cultured Pearls, 6.5 - 9.0 mm, 26 Diamonds 0.48 ctw, and set in 18K Yellow Gold
 images:
-  - /uploads/assael-cascade-earrings-and-bracelet.jpg
+  - image_path: /uploads/assael-cascade-earrings-and-bracelet.jpg
 _category:
 order: 2
 tags:

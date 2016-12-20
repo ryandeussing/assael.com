@@ -4,7 +4,7 @@ description: |
 specs: |
   Golden South Sea Cultured Pearl Earrings, 15.0 - 15.2mm, set in Platinum with Pear Shape Diamonds, 5.24 ctw.
 images:
-  - /uploads/assael-golden-south-sea-pearl-diamond-fan-earrings.jpg
+  - image_path: /uploads/assael-golden-south-sea-pearl-diamond-fan-earrings.jpg
 _category:
 order: 20
 tags:

@@ -5,7 +5,7 @@ description: |
 specs: |
   Set of three necklaces with Tahitian Natural Color Cultured Pearls, 227 Pearls, 9.0 - 12.2mm, set with 18K White Gold and Diamond Clasp, .87 ctw.
 images:
-  - /uploads/assael-natural-color-tahitian-three-strand-cultured-pearl-necklace.jpg
+  - image_path: /uploads/assael-natural-color-tahitian-three-strand-cultured-pearl-necklace.jpg
 _category:
 order: 9
 tags:

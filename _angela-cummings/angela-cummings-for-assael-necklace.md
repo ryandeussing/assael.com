@@ -5,7 +5,7 @@ description: |
 specs: |
   14.4 - 12.0mm Tahitian Pearls with 3.81 carats of White Diamonds, set in Platinum.
 images:
-  - /uploads/angela-cummings-for-assael-necklace.png
+  - image_path: /uploads/angela-cummings-for-assael-necklace.png
 _category:
 order: 20
 tags:

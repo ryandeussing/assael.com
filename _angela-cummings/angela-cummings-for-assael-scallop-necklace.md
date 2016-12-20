@@ -7,7 +7,7 @@ description: |
 specs: |
   6 South Sea Cult Pearls Round 12.4 - 11.1 mm set in Platinum/18K WG and 174 Rd Dia.= 19.87 cts.
 images:
-  - /uploads/angela-cummings-for-assael-scallop-necklace.png
+  - image_path: /uploads/angela-cummings-for-assael-scallop-necklace.png
 _category:
 order: 7
 tags:

@@ -5,7 +5,7 @@ description: |
 specs: |
   Golden South Sea Cultured Pearl Necklace, 27 Pearls 14 - 16mm, Diamond Pave clasp set in 18K Yellow Gold, 4.19 ctw.
 images:
-  - /uploads/assael-golden-south-sea-cultured-pearl-necklace.jpg
+  - image_path: /uploads/assael-golden-south-sea-cultured-pearl-necklace.jpg
 _category:
 order: 18
 tags:

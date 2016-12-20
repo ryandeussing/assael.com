@@ -7,7 +7,7 @@ specs: |
 
   NECKLACE: 15.0 - 17.3mm Tahitian Natural Color Cultured Cultured Gem Pearls.
 images:
-  - /uploads/assael-tahitian-natural-color-cultured-pearl-necklace-and-earrings.png
+  - image_path: /uploads/assael-tahitian-natural-color-cultured-pearl-necklace-and-earrings.png
 _category:
 order: 24
 tags:

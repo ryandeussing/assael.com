@@ -6,8 +6,8 @@ layout: default
   <section class="product">
       <div class="inner">
         <div class="product">
-        {% if page.images[0] %}
-        <img src="{{ page.images[0] }}" alt="">
+        {% if page.images[0].image_path %}
+        <img src="{{ page.images[0].image_path }}" alt="">
         {% endif %}
         </div>
         <div class="product-info">

@@ -5,7 +5,7 @@ description: |
 specs: |
   13.3mm x 14.3mm x 15.6mm South Sea Cultured Baroque Pearl with 0.03 carats of Black Diamonds, set in 18K White Gold.
 images:
-  - /uploads/assael-south-sea-baroque-pearl-panda-bear.png
+  - image_path: /uploads/assael-south-sea-baroque-pearl-panda-bear.png
 _category:
 order: 5
 tags:
