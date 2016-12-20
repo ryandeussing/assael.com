@@ -219,7 +219,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      _summary_markdown: For SEO, only visible to search engines
+      _comments:
+        summary_markdown: For SEO, only visible to search engines
   -
     scope:
       path: "reho-concepts-for-assael.md"
