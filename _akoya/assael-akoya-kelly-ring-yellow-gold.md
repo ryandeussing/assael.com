@@ -6,7 +6,7 @@ specs: |
   Akoya Cultured Pearl, 8.0 - 8.5mm, set in 18K Yellow Gold. Also available in 18K White Gold.
 images:
   - image_path: /uploads/assael-akoya-kelly-ring-yellow-gold.jpg
-order: 10
+order_number: 10
 categories:
   - rings
 ---

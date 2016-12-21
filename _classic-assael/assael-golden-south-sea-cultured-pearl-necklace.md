@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-golden-south-sea-cultured-pearl-necklace.jpg
 _category:
-order: 18
+order_number: 18
 categories:
   - necklaces
 ---

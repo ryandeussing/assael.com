@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-cultured-pearl-necklace-16-20mm.png
 _category:
-order: 26
+order_number: 26
 categories:
   - necklaces
 ---

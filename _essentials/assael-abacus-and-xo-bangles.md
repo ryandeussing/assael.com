@@ -6,7 +6,7 @@ specs: |
 images:
   - image_path: /uploads/assael-abacus-and-xo-bangles.jpg
 _category:
-order: 7
+order_number: 7
 categories:
   - bracelets
 ---

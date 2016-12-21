@@ -6,6 +6,6 @@ specs: |
 
 images:
   - image_path:
-order:
+order_number:
 categories:
 ---

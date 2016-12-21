@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-pave-diamond-african-rhino-with-south-sea-baroque-pearl.png
 _category:
-order: 1
+order_number: 1
 categories:
   - necklaces
 ---

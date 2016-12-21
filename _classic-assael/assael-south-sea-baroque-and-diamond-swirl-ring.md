@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-baroque-and-diamond-swirl-ring.jpg
 _category:
-order: 29
+order_number: 29
 categories:
   - rings
 ---

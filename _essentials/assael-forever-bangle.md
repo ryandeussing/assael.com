@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-forever-bangle.jpg
 _category:
-order: 3
+order_number: 3
 categories:
   - bracelets
 ---

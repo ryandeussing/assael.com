@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-elephant-medallion-with-south-sea-pearl-drop.png
 _category:
-order: 3
+order_number: 3
 categories:
   - necklaces
 ---

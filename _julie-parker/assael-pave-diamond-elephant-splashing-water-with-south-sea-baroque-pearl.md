@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-pave-diamond-elephant-splashing-water-with-south-sea-baroque-pearl.png
 _category:
-order: 2
+order_number: 2
 categories:
   - necklaces
 ---

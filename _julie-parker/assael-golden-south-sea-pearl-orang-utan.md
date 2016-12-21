@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-golden-south-sea-pearl-orang-utan.png
 _category:
-order: 6
+order_number: 6
 categories:
   - necklaces
 ---

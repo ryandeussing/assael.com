@@ -9,7 +9,7 @@ specs: |
 images:
   - image_path: /uploads/angela-cummings-for-assael-double-swirl-earrings.png
 _category:
-order: 14
+order_number: 14
 categories:
   - earrings
 ---

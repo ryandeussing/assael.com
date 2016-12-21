@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-pearl-and-diamond-platinum-ring.jpg
 _category:
-order: 3
+order_number: 3
 categories:
   - rings
 ---

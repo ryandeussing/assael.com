@@ -6,7 +6,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-pearl-pave-hook-earrings.jpg
 _category:
-order: 16
+order_number: 16
 categories:
   - earrings
 ---

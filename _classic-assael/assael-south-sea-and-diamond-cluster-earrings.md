@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-and-diamond-cluster-earrings.jpg
 _category:
-order: 31
+order_number: 31
 categories:
   - earrings
 ---

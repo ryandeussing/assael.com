@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-earrings.png
 _category:
-order: 8
+order_number: 8
 categories:
   - earrings
 ---

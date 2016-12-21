@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-moonstone-ruby-and-tahitian-pearl-necklace.png
 _category:
-order: 9
+order_number: 9
 categories:
   - necklaces
 ---

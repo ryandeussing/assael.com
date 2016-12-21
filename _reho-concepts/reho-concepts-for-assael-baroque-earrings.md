@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/reho-concepts-for-assael-baroque-earrings.png
 _category:
-order: 2
+order_number: 2
 categories:
   - earrings
 ---

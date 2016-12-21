@@ -9,7 +9,7 @@ specs: |
 images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-bangle-earrings.png
 _category:
-order: 18
+order_number: 18
 categories:
   - bracelets
   - earrings

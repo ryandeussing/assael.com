@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-paraiba-tourmaline-earrings.jpg
 _category:
-order: 4
+order_number: 4
 categories:
   - earrings
 ---

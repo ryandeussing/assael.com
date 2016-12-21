@@ -11,7 +11,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-tahitian-and-golden-south-sea-necklaces.png
 _category:
-order: 17
+order_number: 17
 categories:
   - necklaces
 ---

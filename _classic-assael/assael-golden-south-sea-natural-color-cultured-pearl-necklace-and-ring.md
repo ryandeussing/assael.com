@@ -9,7 +9,7 @@ specs: |
 images:
   - image_path: /uploads/assael-golden-south-sea-natural-color-cultured-pearl-necklace-and-ring.png
 _category:
-order: 19
+order_number: 19
 categories:
   - necklaces
   - rings

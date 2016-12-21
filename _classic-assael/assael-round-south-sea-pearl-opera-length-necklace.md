@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-round-south-sea-pearl-opera-length-necklace.jpg
 _category:
-order: 1
+order_number: 1
 categories:
   - necklaces
 ---

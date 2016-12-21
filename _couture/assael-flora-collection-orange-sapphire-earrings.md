@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-flora-collection-orange-sapphire-earrings.png
 _category:
-order: 1
+order_number: 1
 categories:
   - earrings
 ---

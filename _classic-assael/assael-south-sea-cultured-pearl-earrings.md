@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-south-sea-cultured-pearl-earrings.png
 _category:
-order: 28
+order_number: 28
 categories:
   - earrings
 ---

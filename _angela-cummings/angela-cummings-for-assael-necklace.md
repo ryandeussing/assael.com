@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/angela-cummings-for-assael-necklace.png
 _category:
-order: 20
+order_number: 20
 categories:
   - necklaces
 ---

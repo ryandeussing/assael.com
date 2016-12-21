@@ -7,7 +7,7 @@ specs: |
 images:
   - image_path: /uploads/assael-abacus-i-cuff.png
 _category:
-order: 6
+order_number: 6
 categories:
   - bracelets
 ---

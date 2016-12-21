@@ -6,7 +6,7 @@ specs: |
 images:
   - image_path: /uploads/assael-golden-south-sea-pearl-diamond-fan-earrings.jpg
 _category:
-order: 20
+order_number: 20
 categories:
   - earrings
 ---

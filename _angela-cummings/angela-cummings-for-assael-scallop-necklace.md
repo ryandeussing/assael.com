@@ -9,7 +9,7 @@ specs: |
 images:
   - image_path: /uploads/angela-cummings-for-assael-scallop-necklace.png
 _category:
-order: 7
+order_number: 7
 categories:
   - necklaces
 ---
