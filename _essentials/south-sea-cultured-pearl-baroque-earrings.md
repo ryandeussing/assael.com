@@ -1,7 +1,7 @@
 ---
 title: South Sea Cultured Pearl Baroque Earrings
 description:
-specs:
+specs: |
 images:
   -
 order:
