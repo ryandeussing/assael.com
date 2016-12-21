@@ -10,4 +10,6 @@ slides:
     link: /collections/classic-assael/assael-etoile-orange-melo-melo-pendant/
   - image_path: /uploads/slide-legacy.jpg
     link: /legacy/
+  - image_path: /uploads/31836-assael-homepage-holiday-earrings.jpeg
+    link: /collections/essentials/south-sea-cultured-pearl-baroque-earrings/
 ---
