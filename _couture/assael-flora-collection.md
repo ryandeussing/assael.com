@@ -7,14 +7,20 @@ specs: >-
 
 
 
+
+
   EARRINGS: 8.50 - 8.75mm Akoya Cultured Pearls with 4.23 carats of Tsavorite
   Garnets and 1.02 carats of White Diamonds, set in 18K Yellow Gold and
   Titanium.
 
 
 
+
+
   PENDANT: 8.10mm Akoya Cultured Pearl with 1.34 carats of Purple Sapphires, set
   in 18K Gold and Purple Titanium.
+
+
 
 
 
@@ -24,12 +30,14 @@ specs: >-
 
 
 
+
+
   PENDANT: 8.20mm Akoya Cultured Pear with 2.92 carats of Purple Sapphires and
   0.52 carats of White Diamonds, set in 18K Gold and Purple Titanium.
 images:
   - image_path: /uploads/assael-flora-collection.jpg
 _category:
-order_number: 7
+order_number: 8
 categories:
   - rings
   - earrings
