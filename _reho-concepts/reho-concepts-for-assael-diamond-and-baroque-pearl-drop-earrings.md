@@ -5,7 +5,7 @@ specs: '21.8 x 16.6 x 16mm South Sea Cultured Baroque Pearls with 4.57 carats of
 images:
   - image_path: /uploads/reho-concepts-for-assael-diamond-and-baroque-pearl-drop-earrings.png
 _category:
-order_number: 31
+order_number: 32
 categories:
   - earrings
 ---
