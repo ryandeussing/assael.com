@@ -5,7 +5,7 @@ specs: 'Pair of South Sea Cultured Baroque Pearls 28.3 x 24.5 x 19.2mm, with 5.4
 images:
   - image_path: /uploads/assael-11-18-16-e6964-ad-revised-copy.jpg
   - image_path:
-order_number: 2
+order_number: 8
 categories:
   - earrings
 ---
