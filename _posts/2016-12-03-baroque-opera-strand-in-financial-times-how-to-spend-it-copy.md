@@ -1,7 +1,6 @@
 ---
-title: Baroque Opera Strand in Financial Times - How to Spend It
-date: 2016-12-03
-summary_markdown: >
-  Extraordinary Baroque South Sea Cultured Pearl Necklace featured in Financial Times - How to Spend It. Opera Length with 47 Pearls, 14.6 to 20.7mm, finished with a 18K White Gold and Diamond Clasp. ​​
-featured_image: /uploads/2016-12-03.jpg
+title: Baroque South Sea Pearl Drop Earrings Financial Times - How to Spend It
+date: 2016-12-09 00:00:00
+summary_markdown: 'Exquisite Pair of South Sea Cultured Pearls Baroque Drop Earrings, 28.3 x 24.5 x 19.2mm, with 5.43 ctw of Pave Diamonds, set in 18K White Gold. &nbsp;Earrings are featured in the December 9th, Financial Times, How to Spend It.&nbsp;'
+featured_image: /uploads/htsi-dec-9-16.jpg
 ---
