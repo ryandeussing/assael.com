@@ -7,6 +7,8 @@ specs: >-
 
 
 
+
+
   BRACELETS: The top bracelet is set with 6.47 carats of Black Diamonds and 5.53
   carats of White Pave Diamonds. The bottom bracelet is comprised of 17.05 carats
   of Black Diamond and 4.51 carats of White Diamonds. Both are in 18K White
@@ -14,7 +16,7 @@ specs: >-
 images:
   - image_path: /uploads/reho-concepts-for-assael-earrings-and-bracelets.jpg
 _category:
-order_number:
+order_number: 32
 categories:
   - bracelets
   - earrings
