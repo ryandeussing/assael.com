@@ -1,8 +1,7 @@
 ---
-title: Angela Cummings Scallop Bangle & Earrings
-description: |
-  Incredibly detailed, this bracelet and earring set feature a delicate scalloped pattern and organic, contemporary forms finished with South Sea Pearls.
-specs: |
+title: 'Angela Cummings Scallop Bangle & Earrings'
+description: 'Incredibly detailed, this bracelet and earring set feature a delicate scalloped pattern and organic, contemporary forms finished with South Sea Pearls.'
+specs: |-
   BRACELET: 14 - 12.2mm South Sea Cultured Pearl Drops, set in 18K Yellow Gold.
 
   EARRINGS: 13.5 - 12.3mm South Sea Cultured Pearl Drops, set in 18K Yellow Gold.
@@ -11,6 +10,5 @@ images:
 _category:
 order_number: 18
 categories:
-  - bracelets
   - earrings
 ---
