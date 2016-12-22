@@ -5,7 +5,7 @@ specs: '12.9 - 12.4mm Golden South Sea Natural Color Cultured Pearl Drops with 4
 images:
   - image_path: /uploads/reho-concepts-for-assael-golden-south-sea-pearl-drop-earrings.png
 _category:
-order_number:
+order_number: 33
 categories:
   - earrings
 ---
