@@ -5,7 +5,7 @@ specs: 'Melo Melo Pearl, 23.8 x 23.3 x 23.1mm, 95.58 ctw. Hand set in 18K Rose G
 images:
   - image_path: /uploads/assael-etoile-orange-melo-melo-pendant.jpg
 _category:
-order_number: 11
+order_number: 4
 categories:
   - necklaces
 ---
