@@ -5,7 +5,7 @@ specs: '12.9mm x 14.1mm South Sea Cultured Pearl Drop with 0.05 carats of White 
 images:
   - image_path: /uploads/assael-elephant-medallion-with-south-sea-pearl-drop.png
 _category:
-order_number: 22
+order_number: 38
 categories:
   - necklaces
 ---
