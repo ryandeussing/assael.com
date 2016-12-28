@@ -5,7 +5,7 @@ specs: '13.8 - 8.0mm Multicolored South Sea Cultured Pearls with 9.68 carats of 
 images:
   - image_path: /uploads/assael-tropical-luxe-collection-necklace.png
 _category:
-order_number: 6
+order_number: 33
 categories:
   - necklaces
 ---
