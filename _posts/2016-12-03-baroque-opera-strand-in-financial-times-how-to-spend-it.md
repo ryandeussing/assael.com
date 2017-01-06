@@ -1,6 +1,6 @@
 ---
 title: Galerie - Winter - Vol 3
-date: 2016-12-03 00:00:00
-summary_markdown: 'Extraordinary Baroque South Sea Cultured Pearl Necklace featured in Financial Times - How to Spend It. Opera Length with 47 Pearls, 14.6 to 20.7mm, finished with a 18K White Gold and Diamond Clasp. ​​'
+date: 2016-12-14 00:00:00
+summary_markdown: 'Assael Gem Baroque South Sea Cultured Pearl Necklace featured in the Winter Issue of Galerie.&nbsp;'
 featured_image: /uploads/2016-12-03.jpg
 ---
