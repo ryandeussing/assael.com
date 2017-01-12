@@ -1,6 +1,6 @@
 ---
-title: 'CT Cottages & Gardens - December 2016'
-date: 2016-12-10 00:00:00
-summary_markdown: 'Assael Tissue Bracelet featured in Connecticut Cottages and Gardens, "Holiday Sparklers" article. This bracelet has over 790 Diamonds, set in White and Yellow Gold, 39.25 cts. Available at Richards in Greenwich, CT.&nbsp;'
-featured_image: /uploads/SpotlightTemplate_Assael copy copy.jpg
+title: Modern Luxury Weddings - Winter 2017
+date: 2017-01-11 00:00:00
+summary_markdown: 'The Modern Luxury Weddings feature, Raising the Barre, illustrates the sophisticated world of Ballet and combines romantic wedding dresses to tell the story. Assael cultured South Sea pearls and rare gemstones are featured throughout.&nbsp;'
+featured_image: /uploads/SpotlightTemplate_Assael copy.jpg
 ---
