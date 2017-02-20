@@ -281,6 +281,13 @@ defaults:
       class: "spotlight"
       permalink: "/spotlight/"
       _hide_content: true
+  -
+    scope:
+      path: "update.md"
+    values:
+      layout: "update"
+      permalink: "/update/"
+      _hide_content: true
 
 # Gems
 gems:

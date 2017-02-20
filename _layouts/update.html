@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include update-head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+    <div id="sticky-wrapper" >
+      <div id="body-inner">
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+  </body>
+
+  {% if page.class == 'home' %}
+    {% include scripts_home.html %}
+  {% endif %}
+  {% if page.class == 'collection' %}
+    {% include scripts_collection.html %}
+  {% endif %}
+
+</html>
