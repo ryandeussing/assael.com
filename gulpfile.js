@@ -38,16 +38,16 @@ gulp.task('build:styles:main', function() {
 });
 
 // Processes critical CSS, to be included in head.html.
-gulp.task('build:styles:critical', function() {
-    return sass(paths.sassFiles + '/critical.scss', {
-        style: 'compressed',
-        trace: true,
-        loadPath: [paths.sassFiles]
-    }).pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
-        .pipe(cleancss())
-        .pipe(gulp.dest('_includes'))
-        .on('error', gutil.log);
-});
+// gulp.task('build:styles:critical', function() {
+//     return sass(paths.sassFiles + '/critical.scss', {
+//         style: 'compressed',
+//         trace: true,
+//         loadPath: [paths.sassFiles]
+//     }).pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
+//         .pipe(cleancss())
+//         .pipe(gulp.dest('_includes'))
+//         .on('error', gutil.log);
+// });
 
 // Builds all styles.
 //gulp.task('build:styles', ['build:styles:main', 'build:styles:critical']);
