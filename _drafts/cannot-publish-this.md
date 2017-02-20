@@ -1,6 +1,6 @@
 ---
 title: Cannot Publish This
-date:
-summary_markdown:
+date: 2017-02-20 01:00:00
+summary_markdown: This is a draft post I cannot pubish
 featured_image:
 ---
