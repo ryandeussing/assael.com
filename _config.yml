@@ -283,10 +283,10 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "update.md"
+      path: "cms.md"
     values:
-      layout: "update"
-      permalink: "/update/"
+      layout: "cms"
+      permalink: "/cms/"
       _hide_content: true
 
 # Gems
