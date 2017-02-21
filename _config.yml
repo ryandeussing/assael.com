@@ -280,7 +280,7 @@ defaults:
       layout: "default"
       class: "spotlight"
       permalink: "/spotlight/"
-      _hide_content: false
+      #_hide_content: true
   -
     scope:
       path: "cms.md"
