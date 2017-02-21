@@ -15,9 +15,7 @@ title: Spotlight on Assael
         <img src="/assets/img/trans.gif" data-src="{{ post.featured_image }}" alt="{{ post.title }}" class="featured-image lazyload">
       {% endif %}
 
-      {% if post.summary_markdown %}
-        <p>{{ post.summary_markdown|markdownify }}</p>
-      {% endif %}
+        <p>{{ post.content|markdownify }}</p>
     </div>
   </section>
 {% endfor %}
