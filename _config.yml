@@ -74,6 +74,10 @@ collections:
     output: true
     _hide_content: true
     permalink: /collections/reho-concepts-for-assael/:path/
+  bespoke:
+    output: true
+    _hide_content: true
+    permalink: /collections/bespoke/:path/
   # pieces:
   #   output: true
   #   _hide_content: true
@@ -252,6 +256,14 @@ defaults:
   -
     scope:
       collection: "reho-concepts"
+    values:
+      layout: "product"
+      class: "product"
+      _comments:
+        images: Product images should be uploaded at exaclty 675px by 848px (or larger, using the same 1.255 aspect ratio)
+  -
+    scope:
+      collection: "bespoke"
     values:
       layout: "product"
       class: "product"
