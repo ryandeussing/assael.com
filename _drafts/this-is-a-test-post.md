@@ -1,8 +1,8 @@
 ---
 title: this is a test post
-date:
-summary_markdown:
-featured_image:
+date: 2017-05-04 00:00:00
+summary_markdown: Nothing really
+featured_image: /uploads/2016-04-16.jpg
 ---
 
 
