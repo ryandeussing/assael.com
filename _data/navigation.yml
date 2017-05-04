@@ -7,6 +7,8 @@ collections-dropdown:
     url: /collections/akoya
   - title: Couture
     url: /collections/couture
+  - title: Bespoke
+    url: /collections/bespoke
   - title: Collaborations
     url: javascript:void(0)
     submenu:

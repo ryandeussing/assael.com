@@ -271,6 +271,14 @@ defaults:
         images: Product images should be uploaded at exaclty 675px by 848px (or larger, using the same 1.255 aspect ratio)
   -
     scope:
+      path: "bespoke.md"
+    values:
+      layout: "collection"
+      class: "collection"
+      permalink: "/collections/bespoke/"
+      _hide_content: true
+  -
+    scope:
       path: "retailers.md"
     values:
       layout: "default"
